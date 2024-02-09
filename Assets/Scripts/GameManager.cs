@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 
 [Serializable]
 public struct ShipResources
@@ -35,6 +36,9 @@ public class GameManager : MonoBehaviour
     public int currentTradeIndex; //indexes current trade within a mission 
     public TradeOffer currentTrade; // the actual current trade offer
     public int currentMission; // tracks missions
+
+    [Tooltip("Lets other scripts know when a mission begins.")]
+    public UnityEvent onMissionBegin;
 
     [Header("UI References")]
     public TMP_Text tradeText;
@@ -95,6 +99,9 @@ public class GameManager : MonoBehaviour
 
         //index mission counter
         currentMission++;
+
+        //Invoke mission begin
+        onMissionBegin.Invoke();
     }
 
     /// <summary>
