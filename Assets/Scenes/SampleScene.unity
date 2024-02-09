@@ -1683,6 +1683,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1347557555}
     - target: {fileID: 5071034086992429240, guid: a1ae54efdf7b84141ad180aa75319056, type: 3}
+      propertyPath: missionTradeAmtRange.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5071034086992429240, guid: a1ae54efdf7b84141ad180aa75319056, type: 3}
       propertyPath: allTradeOffers.Array.data[0]
       value: 
       objectReference: {fileID: 277818725}
