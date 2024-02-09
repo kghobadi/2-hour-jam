@@ -14,5 +14,8 @@ public class TradeOffer : MonoBehaviour
     //Could be positive or negative numbers. 
     //Include inverse setting - when we deny a trade, the inverse effect happens. 
     public ShipResources resourceExchange;
+    public ShipResources DenyExchange;
+    public ShipResources NeutralExchange;
     public TextAsset exchangeMessage;
 }
+
