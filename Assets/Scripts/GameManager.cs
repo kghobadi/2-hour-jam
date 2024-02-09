@@ -148,7 +148,7 @@ public class GameManager : MonoBehaviour
     public void DenyOffer()
     {
         //what do we do with the trade offer? 
-        RemoveResources(currentTrade.resourceExchange);
+        RemoveResources();
         NextTrade();
     }
 
@@ -156,6 +156,7 @@ public class GameManager : MonoBehaviour
     {
         //what do we do with the trade offer? 
         //do nothing 
+        NeutralResources();
         NextTrade();
     }
 
@@ -164,16 +165,24 @@ public class GameManager : MonoBehaviour
 
     void AddResources()
     {
-        shipResources.hullHP += currentTrade.resourceExchange.hullHP;
-        shipResources.crewMorale += currentTrade.resourceExchange.crewMorale;
-        shipResources.credits += currentTrade.resourceExchange.credits;
+        ResourceChanges(currentTrade.resourceExchange);
     }
 
-    void RemoveResources(ShipResources exchange)
+    void RemoveResources()
     {
-        shipResources.hullHP -= exchange.hullHP;
-        shipResources.crewMorale -= exchange.crewMorale;
-        shipResources.credits -= exchange.credits;
+        ResourceChanges(currentTrade.DenyExchange);
+    }
+
+    void NeutralResources()
+    {
+        ResourceChanges(currentTrade.NeutralExchange);
+    }
+
+    void ResourceChanges(ShipResources x)
+    {
+        shipResources.hullHP += x.hullHP;
+        shipResources.crewMorale += x.crewMorale;
+        shipResources.credits += x.credits;
     }
 
     void UpdateResourcesText()
