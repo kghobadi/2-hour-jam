@@ -25,6 +25,11 @@ public class GameManager : MonoBehaviour
     public TradeOffer[] allTradeOffers;
     //this stores potential trades for a mission
     private List<TradeOffer> potentialTrades = new List<TradeOffer>();
+    //tracks the initial resources at the start of a mission
+    private ShipResources iterationResourceStart;
+
+    [SerializeField]
+    private ShipResources initialResources;
 
     [Tooltip("Tracks my ship resources")]
     public ShipResources shipResources;
@@ -39,6 +44,7 @@ public class GameManager : MonoBehaviour
 
     [Tooltip("Lets other scripts know when a mission begins.")]
     public UnityEvent onMissionBegin;
+    //add events like the above for next trade and end mission
 
     [Header("UI References")]
     public TMP_Text tradeText;
@@ -49,6 +55,15 @@ public class GameManager : MonoBehaviour
     public string moraleDefault = "Crew Morale: ";
     public TMP_Text creditsText;
     public string creditsDefault = "Credits: ";
+
+    public GameObject MissionRecapScreen;
+    public TMP_Text MissionRecapText;
+    public TMP_Text SpaceToProgressText;
+
+    public GameObject MissionFailedScreen;
+    public TMP_Text MissionFailedText;
+    public TMP_Text MissionFailedPleaseContinue;
+
 
     private void Awake()
     {
@@ -68,6 +83,11 @@ public class GameManager : MonoBehaviour
     /// </summary>
     void BeginMission()
     {
+        MissionRecapScreen.SetActive(false);
+        MissionFailedScreen.SetActive(false);
+        iterationResourceStart.credits = shipResources.credits;
+        iterationResourceStart.crewMorale = shipResources.crewMorale;
+        iterationResourceStart.hullHP = shipResources.hullHP;
         //reset list to ALL trade offers
         potentialTrades.Clear();
         foreach (var trade in allTradeOffers)
@@ -110,11 +130,11 @@ public class GameManager : MonoBehaviour
     void SetCurrentTrade()
     {
         //deactivate 'prior' trade
-        if(currentTrade != null)
+        if (currentTrade != null)
         {
             currentTrade.gameObject.SetActive(false);
         }
-   
+
         //new ones 
         currentTrade = missionTrades[currentTradeIndex];
         currentTrade.gameObject.SetActive(true);
@@ -140,9 +160,85 @@ public class GameManager : MonoBehaviour
 
     void EndMission()
     {
+        //check for failure conditions. if hull hp = 0, credits = 0, morale = 0
+        if (shipResources.hullHP <= 0)
+        {
+            string failedText = "OH NO! You ran out of hull. Have fun swimming home in space!";
+            missionFailure(failedText);
+        }
+        else if (shipResources.credits <= 0)
+        {
+            string failedText = "OH NO! You ran out of money. I hear McSpaceRonalds is hiring for 2 credits an hour!";
+            missionFailure(failedText);
+        }
+        else if (shipResources.crewMorale <= 0)
+        {
+            string failedText = "OH NO! Your crew has no morale and mutinied. Should've given them more time off or a second lunch break.";
+            missionFailure(failedText);
+        }
+        else
+        {
+            //what should this do?
+            //Make sure we can show the player they ended, what resources they got, and begin a new mission.
+            StartCoroutine(MissonEnds());
+        }
+
+    }
+
+    void missionFailure(string failedText)
+    {
+        MissionFailedPleaseContinue.gameObject.SetActive(false);
+        MissionFailedText.text = failedText;
+        MissionFailedScreen.SetActive(true);
+        StartCoroutine(MissionFailure());
+        /*create an ienumerator like the mission ends that resets the game
+         * TODO: get/set the base values so when the game restarts the values reset.
+         *TODO: create the coroutine method
+         */
+    }
+
+    IEnumerator MissonEnds()
+    {
+        SpaceToProgressText.gameObject.SetActive(false);
+        //end event?
         Debug.Log("You JUST ENDED THE MISSION!!!! nice job");
-        //what should this do?
-        //Make sure we can show the player they ended, what resources they got, and begin a new mission.
+
+        //want to add a box that has the summary of details and continue button
+        int missionHullChanges = shipResources.hullHP - iterationResourceStart.hullHP;
+        int missionMoraleChanges = shipResources.crewMorale - iterationResourceStart.crewMorale;
+        int missionCreditsChanges = shipResources.credits - iterationResourceStart.credits;
+
+        //sets the Summary text and activates the recap screen
+        string RecapMessage = "Hull: " + missionHullChanges + "\nMorale: " + missionMoraleChanges + "\nCredits: " + missionCreditsChanges;
+        MissionRecapText.text = RecapMessage;
+
+        MissionRecapScreen.SetActive(true);
+
+        yield return new WaitForSeconds(1);
+        SpaceToProgressText.gameObject.SetActive(true);
+
+        yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Space));
+        BeginMission();
+    }
+
+    IEnumerator MissionFailure()
+    {
+        yield return new WaitForSeconds(3);
+        MissionFailedPleaseContinue.gameObject.SetActive(true);
+
+        yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Space));
+
+        resetGame();
+    }
+
+    public void resetGame()
+    {
+        currentMission = 0;
+        //resets initial resources
+        shipResources.hullHP = initialResources.hullHP;
+        shipResources.crewMorale = initialResources.crewMorale;
+        shipResources.credits = initialResources.credits;
+        BeginMission();
     }
 
     public void AcceptOffer()
