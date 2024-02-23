@@ -1,0 +1,3439 @@
+fileFormatVersion: 2
+guid: e3533b5eb1aa6094288fd3f4596dcc68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4541b85003c764c8e67584823db61e
+      internalID: -1959801875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2b72320b65664b84103b4409c2b91
+      internalID: -1554137718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a866072ad08d6c4bb633d5adad4bc01
+      internalID: -1242432974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76c692bacb6ba44add246e53511a05
+      internalID: -1602431036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939ed63ab634da47a9df2882f886e72
+      internalID: -117803183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa3b606d5ad1a4a999acc7a0020a93
+      internalID: 1106501272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a23a611543f9fd4fa131dcdcc00074d
+      internalID: -379427488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58aba6935d5394e868a940866bec80
+      internalID: 762821152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c88b7950678e4e90cdd7aac09922e
+      internalID: -356201988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c02324ae4d114fa3b5ac04a34509f
+      internalID: -1417433367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414d6cccb3a1bb54091590559b903b23
+      internalID: 500476158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a2de4055705144a407119536d5368
+      internalID: 1191057346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514517b6b192a64a99b80a1c1bf721a
+      internalID: 838644458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88134fbe9add2e44a249e2bb6aff815
+      internalID: 1348988238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7316eb930ed24419cf1f9b03090510
+      internalID: -1878912194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c03ec118adfc4b981ca7bfb000b45
+      internalID: 935177146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506bd6c68af0ad04e84102ab3309b282
+      internalID: -2010272468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 249
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfdfea676bc91d418426b06bc840422
+      internalID: 161132822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a2b0411824604c8536952f265771c
+      internalID: 961340110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6b3bbbe356bc41a1ad098ae1ea925
+      internalID: 608765901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44783378dae5e4fbc88d44613793cc
+      internalID: -1364893521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76f4c06f36bc045966c2fbde4acd57
+      internalID: -2128487010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c770ec89eacc44995836eadc7a6914
+      internalID: 2086303571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a126a5ef7249ab47940616412c8ab6a
+      internalID: -1194638855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549d66c3551c4746b13f032c45b9de3
+      internalID: -206402172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cbf1b1cbca014cb770362ad65e7d4
+      internalID: -693251561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885dab16c5a2a1841a472b3698349967
+      internalID: -1635015224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eece93d10977d24fba61c10af7ced7e
+      internalID: 143342456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a08d1186f36a4895b5176d6bd132f
+      internalID: -614664058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d9fda96ce30dd4e8b0bb3a7782e7c3
+      internalID: 513972706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b82bf9ff00c8f4ba4e309f177f802d
+      internalID: 478128208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27963fca843d5b24fa30a0f7514b0aaa
+      internalID: -922775004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a52eb7aca3e448b563a0478330a82
+      internalID: 1213946652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4933cb9e47d3448333da0f0e00f75
+      internalID: -891622462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb057d3c0967174ab68e6528a7dcba5
+      internalID: 1638571342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 216
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308659da351df24196e4b3c16862219
+      internalID: -2099565312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79245c0c557609c418cd207f14a5896c
+      internalID: -1976689030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c24db6dd0bb8344b9e3a76d58113b0
+      internalID: -969139795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4ad6874f1e254ab103495b6671844
+      internalID: 1626022368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e7d0da8ddbf64a87f8ae18e3d7009
+      internalID: -861698403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a5343660d18d643863fcf9ed85d4b4
+      internalID: -1840175471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a251ab2c224c2c4ea15bf40cc2955ac
+      internalID: 1613343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9fbb52fbf56544830a41a0423b23a
+      internalID: 772885322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6c7d6d14cc7245b816ffa59e4cd7e
+      internalID: -2120968279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc667f7a23d9cde4380caa5f7dd6583c
+      internalID: -1395459663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f05b8e28275b34f9cf0aeae0e4b946
+      internalID: 157239955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c16ec8db271994384652ae4abaaef6
+      internalID: 525039798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0012b124cabcc6f4ea92a33027101fe4
+      internalID: -2006124136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e090845974a6a8418be8906044cc1bd
+      internalID: -351746215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ef724615a76142b686eb6636f590d
+      internalID: 139944067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabcd20d8657a9f47a6bf9d072c69d8d
+      internalID: 1621347590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd61e83b157f14eac1b8eb39491729
+      internalID: 2040077230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c735fb8bdf9ee04e86bc155b2a9bcb4
+      internalID: -634573805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_53
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 183
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a474a2e7cc814c48b0339e414e7c5df
+      internalID: -1952086247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f16ef8d86860e408523d25c3760fda
+      internalID: 1452026683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0a4bda32bf234396e0e366f8b1280
+      internalID: 346467373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42085eca694d4f4183e62d0036a19dd
+      internalID: -1022544908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741cd9a500764346a701119945ad168
+      internalID: 1790087215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5470dad27718046b60d9c46ec184c8
+      internalID: 1624865980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76672b739a6342d4295b935ea75df889
+      internalID: -695404446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582bf032b6501c49b4074b2428b488b
+      internalID: -1027488321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c3ba7acb7bbbb4ea16a5a423ff9f57
+      internalID: -1643274807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ecf06ea4514542bc105361cbb81f1
+      internalID: 618027955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d06385f63c17448b885c65f53666eb
+      internalID: -913841421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e90adfd2fc9244810a817cfce5bc0
+      internalID: -512166869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a999e5b1797f4b40a234fd95735d668
+      internalID: -960159153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9cb09e68058542a714ea686826dd1
+      internalID: -63575213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1adda3e8b36212439c008de08e50078
+      internalID: -1843253178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_68
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512eb1abe8befd549aea6a92dea772a2
+      internalID: 1859517855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_69
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1cc913ad5bf24d865853194708dd2
+      internalID: -383023102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3249446d8158d409632337dd17200b
+      internalID: 584489603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_71
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 150
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdca7f7c8830fd4f90eb885b4462008
+      internalID: 1296970757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62169890982ba214c805ea71e8735763
+      internalID: -1702886715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f3b9134d202d468060aafaa824fad
+      internalID: -1563511620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8676567d6fc19418d531bc7d606288
+      internalID: 1555902677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98629be00386d594e8bb0019a316bd56
+      internalID: 1960016633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147834f58d5d32a4abd058728f33b315
+      internalID: 345454167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988d8848314e354f81537fac68d03a5
+      internalID: 965597640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b93e6c8f64d04f81c20c1b39b63e5
+      internalID: 1437678451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_79
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ced4234360b12348b4632bf322cd0b1
+      internalID: -1554566704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5379d85d32f2674c8ca6e71e68ceb59
+      internalID: 2096169421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_81
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea3e2ea0417424fa227eaf4e0265ae
+      internalID: -811621302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712384e16e5ca7143819bdcb6be24baa
+      internalID: 1691348564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927bb7cd8167d5499a059d1e6acc46b
+      internalID: 1910788627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331938145f24f2418a3f0d12d8c96d2
+      internalID: 1574683576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e7e6f24441b14491bbd61d707500e
+      internalID: 833619330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a3bbecd3a5274199c120533092600
+      internalID: 1153725534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_87
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f8b99f5f92d3c48922bffb2fd783ed
+      internalID: 39834991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c003738e418c5d4481a6f1258711534
+      internalID: -1486585201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 117
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b4242c97c1c448a10547795b8b7b8
+      internalID: 111642980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76353963037a9b34082a2a42981fde72
+      internalID: 137176266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_91
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ee37d0e1de4f44b4c9280f9095bd4
+      internalID: -1993171052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09d04b32e7d57546b7613b560b633fd
+      internalID: -957137514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a23e90442e0749aa8f101636cae46
+      internalID: 1250742106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2a493613cd3746a6f980653047533
+      internalID: -1714883701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a29a053a091540a8066cf2efc953d
+      internalID: 1930278176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974936d3dd14984c98939bf85b9a473
+      internalID: -155537989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_97
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd0a4edf6d1fa4c9c4365a45374ed2
+      internalID: 635733587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e53996182ad944b2af296ec585fe1
+      internalID: 2047800104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aced55043bc1dc945b175a5d274c336c
+      internalID: 1605988634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be37c70b7759c41a33df085fbfe452
+      internalID: 1504405778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_101
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93c65d2c0c427499953ae1a9d3191e
+      internalID: -1071502253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81a7035636f2246855ae8b11e322bc
+      internalID: 876536136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_103
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd37ff3ef316f46abb9616f67a9274
+      internalID: -1774154347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_104
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118ea8b6c0fbe247a4a29b197a63af6
+      internalID: 1370713666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_105
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc0d65dadbbca4eb9dea1d0adf6799
+      internalID: -170213566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_106
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f7432f85812845a4475788b7cb78c
+      internalID: -265462396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_107
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 84
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071e4d19c9f7c44185b25a40cfc9f2c
+      internalID: -668804398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d130639247ec48b7ab145fbc12a77
+      internalID: 1257046647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_109
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e5979fd9692945af8ba75e492ef79
+      internalID: 852679913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e1df89e72a1d049b134268fb74a055
+      internalID: 80048806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_111
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52ee9f107bf954dad9429e00ba89d2
+      internalID: 579056916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_112
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671980a460ba11499de700cb57c91a4
+      internalID: -1134516213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_113
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83bb544fbca624a8bd83652b25c421
+      internalID: 70625347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_114
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74387cef4e692b48bc9924d4f9eef00
+      internalID: -502779824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131aaafb77971b24295f49fd6f4d04c6
+      internalID: 1153968550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_116
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081b9dc04dc8df4a90d0255f1b0f29a
+      internalID: -1181392267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_117
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a21ef8c77876046ba8cf8806120f29
+      internalID: -383711427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d39448bef1fb42946000edd7343be
+      internalID: 942742326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_119
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5047abd4b6042354f80c8c0c426cc2d3
+      internalID: -1015413267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_120
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d893be687f8084b458d2f6530244a385
+      internalID: -2016255801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_121
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ebdd3380a2b742aab8726f98260ac
+      internalID: -2034216881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_122
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82147999e0be65f4c9b654175d825740
+      internalID: -516589697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_123
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39d196eb73d2845aeeaa19bfa0daa5
+      internalID: -1322455670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877966a75acfdc4bbbfe222d265f045
+      internalID: 1598709026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_125
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 51
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acefc0e2aa7a3b499535ee9c920ab37
+      internalID: -1653747786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56a87ddf1526b4ca1f871b6a44eee6
+      internalID: -923812104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_127
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352995572276214bbea613a9e97c379
+      internalID: -289072014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_128
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1bede0f83da74981dce05ef8a7e18
+      internalID: -264733798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_129
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b911db51586434cb817846a0d10541
+      internalID: -500465871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_130
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be2cf816af599849ad08fb453ea3538
+      internalID: 1987967427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_131
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98644023f6a3a54087a69e24163988f
+      internalID: -1349509608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce156bba665b0d4fb31e401a624d3f5
+      internalID: -1892268294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_133
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9da0fcba5295346bcc040119ef14bd
+      internalID: -2043235121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ba1edb2fdb0e4e94c6be918a60775
+      internalID: -1188001607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee7fd824850524891d595f55877593
+      internalID: -1258205582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_136
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce73a0ab811134a89e4ebacbbc7250
+      internalID: 1444117945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733f1b49b9b17948b280f3ae084effa
+      internalID: -337895165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c2ff2831b06443a9e8175c3e51af3
+      internalID: 1935431878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_139
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8500e88f2a777364f8cc7e92e4879211
+      internalID: -857894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_140
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926805407f99e0d48ae5109a85ced298
+      internalID: -2031522702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_141
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f90f58668afc4498d9e50e25af2af
+      internalID: 231116469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded52035d4c6784aa7d935d81e69ffd
+      internalID: 857450398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario
+        Land 2_143
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 18
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e33ff045f689b4083214fbf9c9bf5b
+      internalID: -185981047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_0: -1959801875
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_1: -1554137718
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_10: 500476158
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_100: 1504405778
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_101: -1071502253
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_102: 876536136
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_103: -1774154347
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_104: 1370713666
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_105: -170213566
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_106: -265462396
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_107: -668804398
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_108: 1257046647
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_109: 852679913
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_11: 1191057346
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_110: 80048806
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_111: 579056916
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_112: -1134516213
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_113: 70625347
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_114: -502779824
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_115: 1153968550
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_116: -1181392267
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_117: -383711427
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_118: 942742326
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_119: -1015413267
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_12: 838644458
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_120: -2016255801
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_121: -2034216881
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_122: -516589697
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_123: -1322455670
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_124: 1598709026
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_125: -1653747786
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_126: -923812104
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_127: -289072014
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_128: -264733798
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_129: -500465871
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_13: 1348988238
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_130: 1987967427
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_131: -1349509608
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_132: -1892268294
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_133: -2043235121
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_134: -1188001607
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_135: -1258205582
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_136: 1444117945
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_137: -337895165
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_138: 1935431878
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_139: -857894857
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_14: -1878912194
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_140: -2031522702
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_141: 231116469
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_142: 857450398
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_143: -185981047
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_15: 935177146
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_16: -2010272468
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_17: 161132822
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_18: 961340110
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_19: 608765901
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_2: -1242432974
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_20: -1364893521
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_21: -2128487010
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_22: 2086303571
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_23: -1194638855
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_24: -206402172
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_25: -693251561
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_26: -1635015224
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_27: 143342456
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_28: -614664058
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_29: 513972706
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_3: -1602431036
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_30: 478128208
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_31: -922775004
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_32: 1213946652
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_33: -891622462
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_34: 1638571342
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_35: -2099565312
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_36: -1976689030
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_37: -969139795
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_38: 1626022368
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_39: -861698403
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_4: -117803183
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_40: -1840175471
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_41: 1613343053
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_42: 772885322
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_43: -2120968279
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_44: -1395459663
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_45: 157239955
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_46: 525039798
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_47: -2006124136
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_48: -351746215
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_49: 139944067
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_5: 1106501272
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_50: 1621347590
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_51: 2040077230
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_52: -634573805
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_53: -1952086247
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_54: 1452026683
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_55: 346467373
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_56: -1022544908
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_57: 1790087215
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_58: 1624865980
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_59: -695404446
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_6: -379427488
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_60: -1027488321
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_61: -1643274807
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_62: 618027955
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_63: -913841421
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_64: -512166869
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_65: -960159153
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_66: -63575213
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_67: -1843253178
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_68: 1859517855
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_69: -383023102
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_7: 762821152
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_70: 584489603
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_71: 1296970757
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_72: -1702886715
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_73: -1563511620
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_74: 1555902677
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_75: 1960016633
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_76: 345454167
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_77: 965597640
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_78: 1437678451
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_79: -1554566704
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_8: -356201988
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_80: 2096169421
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_81: -811621302
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_82: 1691348564
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_83: 1910788627
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_84: 1574683576
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_85: 833619330
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_86: 1153725534
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_87: 39834991
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_88: -1486585201
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_89: 111642980
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_9: -1417433367
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_90: 137176266
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_91: -1993171052
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_92: -957137514
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_93: 1250742106
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_94: -1714883701
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_95: 1930278176
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_96: -155537989
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_97: 635733587
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_98: 2047800104
+      Browser Games - Super Mario Bros Crossover - Space Luigi - Super Mario Land 2_99: 1605988634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

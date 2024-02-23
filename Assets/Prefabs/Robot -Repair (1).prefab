@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -74,16 +74,16 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0, g: 1, b: 0.016897917, a: 1}
-  m_FlipX: 0
+  m_Sprite: {fileID: 1113351502, guid: 1dfe415bdf648204894ea421e00301ce, type: 3}
+  m_Color: {r: 0.9622642, g: 0.9622642, b: 0.9622642, a: 1}
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!114 &7508751105249520770
 MonoBehaviour:
@@ -101,4 +101,12 @@ MonoBehaviour:
     hullHP: 10
     crewMorale: 0
     credits: -20
+  DenyExchange:
+    hullHP: 0
+    crewMorale: 0
+    credits: 0
+  NeutralExchange:
+    hullHP: 0
+    crewMorale: 0
+    credits: 0
   exchangeMessage: {fileID: 4900000, guid: 3adcb02432358c34aa91bcd22cbe2efa, type: 3}
