@@ -1,1 +1,1 @@
-Warlord: Surrender and pay me 30 credits or face our wrath!
+Warlord: Surrender and pay me credID or face our wrath!
