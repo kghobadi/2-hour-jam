@@ -1,1 +1,1 @@
-Robot: Hi I can repair your ship damage if you pay me 30 credits!
+Robot: Hi I can repair your ship damage if you pay me credID credits!

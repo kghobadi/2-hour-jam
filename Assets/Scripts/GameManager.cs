@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -51,10 +52,13 @@ public class GameManager : MonoBehaviour
 
     public TMP_Text hpText;
     public string hpDefault = "HullHP: ";
+    public string hpIdentifier = "hhp";
     public TMP_Text moraleText;
     public string moraleDefault = "Crew Morale: ";
+    public string moraleIdentifier = "cm";
     public TMP_Text creditsText;
     public string creditsDefault = "Credits: ";
+    public string creditIdentifier = "credID";
 
     public GameObject MissionRecapScreen;
     public TMP_Text MissionRecapText;
@@ -137,8 +141,37 @@ public class GameManager : MonoBehaviour
 
         //new ones 
         currentTrade = missionTrades[currentTradeIndex];
-        currentTrade.gameObject.SetActive(true);
-        tradeText.text = currentTrade.exchangeMessage.text;
+        currentTrade.gameObject.SetActive(true); 
+        string actualMessage = currentTrade.exchangeMessage.text;
+        string[] pieces = actualMessage.Split(' '); // separate strings "name" "place" and "age"
+        string newMessage = "";
+        foreach (var piece in pieces)
+        {
+            if (piece.Contains(hpIdentifier))
+            {
+                int hullval = currentTrade.resourceExchange.hullHP;
+                string z = math.abs(hullval).ToString();
+                newMessage = newMessage + " " + z;
+            }
+            else if (piece.Contains(moraleIdentifier))
+            {
+                int moralval = currentTrade.resourceExchange.crewMorale;
+                string z = math.abs(moralval).ToString();
+                newMessage = newMessage + " " + z;
+            }
+            else if (piece.Contains(creditIdentifier))
+            {
+                int credval = currentTrade.resourceExchange.credits;
+                string z = math.abs(credval).ToString();
+                newMessage = newMessage+" " + z;
+            }
+            else
+            {
+                newMessage = newMessage+" "+ piece;
+            }
+            
+        }
+        tradeText.text = newMessage;
         UpdateResourcesText();
     }
 
