@@ -1,0 +1,2503 @@
+fileFormatVersion: 2
+guid: 1dfe415bdf648204894ea421e00301ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90e9a404b19c64bb35702669bac43f
+      internalID: 1018103396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 466
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11057cf7d4449ca4090f0559df0ac17b
+      internalID: 615418301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 466
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10eab62299849446b785e9e986ec156
+      internalID: -1446416550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 466
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c021f3f6bcab7141a46d8843bf842c5
+      internalID: 174564177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 466
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0346ae0fe40c745b482fa74961cf23
+      internalID: 1071422896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 458
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b46c644c206c24bad1ddb7f1d86f18
+      internalID: 83200969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 466
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34009a0e861802e4e8d1674f3f2b1bff
+      internalID: 1090037658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 466
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2774a4f434784287701ce4c050a1e
+      internalID: 428543872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 466
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c947d279dabf348ba81c8fd917a859
+      internalID: -727224433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2cecfc72c90b4f8ccbc5a6f998263
+      internalID: 1590550548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 422
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612631e05a2e02449630b0aca59ecbf
+      internalID: 827278776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 422
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7f64d3cb5c5a40a2a628cde1697d8
+      internalID: 424466296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 422
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebfccde8cfb01e4580ece3f163e6847
+      internalID: -658831282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 422
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a02f349ad2b248b6a386e6d3ed28f
+      internalID: 1572235274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 422
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ef989594381b41a5606c325730e82
+      internalID: 1189389143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 422
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2957c426642d8b746871c42d246cd84b
+      internalID: 1935042608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 425
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac30c09742d0e43829336fc0dc8ec2
+      internalID: 2081465162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 422
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251934b204e0973479936c7b60687508
+      internalID: -937099017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483a39f570d28c40ae5c7db505393cc
+      internalID: 523191483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 386
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6254fc3d2a4bde4aa027309f318e71a
+      internalID: -1963796141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 386
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e68b3d1abcf42429157d7f2137bb49
+      internalID: -1687430680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c07ddf3989b94d8d00df19be13bf3
+      internalID: -1126188750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83bb7f8887037c45a5fd743131d44eb
+      internalID: -702241508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 378
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad61bcc043273af4db4c492c21478e00
+      internalID: 1366008997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 386
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b63a19ce8951469dc56addabe477c
+      internalID: -1616888146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 386
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3c3a058fadf94080963acfbf4558d
+      internalID: -540442255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 386
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd915e25381075458bb7af9d36d862c
+      internalID: 334466790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b97b7e1e39b94e818f9356397a74a
+      internalID: -1290651009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 342
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e627c017f4784fa357c31a0b811d6
+      internalID: -106039697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb32b08b4c3664e8868cc0acfbb97b
+      internalID: -1092419091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2ce63eecc15c4eaa1e704b6c2b4ed
+      internalID: -725716276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 342
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46d437c82d316448fb84b1fbc3219d
+      internalID: -1993052341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 334
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b1166580f9044088d523a2fa63526
+      internalID: 1282511441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bcf9bf019f89488d88ddfd3599acf
+      internalID: 442416777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 342
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c7cd4f5732ab48ae2c973a647d139
+      internalID: 440896273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 342
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5f6fd78d3443408b584f6d4e6cb50
+      internalID: -555243854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 300
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed56991104ae74fbfd5a6b4944b6a5
+      internalID: -1206555154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 300
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6b1a02fa3947349943a3548cd7ce36
+      internalID: 1598710606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e513cacb40c5458eaab289d6aa971
+      internalID: 1811309841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 300
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d25fffb88ee342af19bccb9fdd917
+      internalID: -978679961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 300
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840500922e2a75942b2719b1ad4eb23f
+      internalID: 715019882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 292
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d808dc944dd3d45b98a00df33a300c
+      internalID: -759234836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 300
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d383b560b88434899f703035f725c6
+      internalID: 1113351502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 300
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134aa2e54f053b4fbfb8e07b834fb7d
+      internalID: -1216043312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 300
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2898b5bb4a08a49896fafb0d50eea4
+      internalID: -386326562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a130efad1d2f334ab9b7441798de546
+      internalID: -1166235874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 256
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c467e1375503341a562b1b8e85c98e
+      internalID: -1251283745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 256
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445c27b5872a4749b24a4ed1fc17768
+      internalID: -238366339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 256
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efacd30371a77e46ba61d75c26a67dc
+      internalID: 1997806433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e244b41fcd0b14893fc7b5d5e80d78
+      internalID: 56416723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ed14a7941c78409e976d4eddcc759
+      internalID: -1360780434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 256
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14591b433c2d8a349b83fdd4f20733b7
+      internalID: -1181913236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 259
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176d9e7d94e43d4589bdcb2a5031a81
+      internalID: -85543987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd61c032bca61449c4f49ccfc1671b
+      internalID: -1029825547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e4ac1eb760864fbf94d1a1c66fc66
+      internalID: 912594818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 220
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecaf624cfeb4df41b955c278201ee94
+      internalID: 2124782110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10adf3642f2bab2459ff366f768caea6
+      internalID: 1563958345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 220
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c4f565b384a145bec5fe240054b10
+      internalID: -416208200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_58
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 220
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b90e5c0bd39b346b4595ea2699ac86
+      internalID: 580897361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 212
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e227d76808de184eb191c8950c5e748
+      internalID: -352561136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 220
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e16202ad075343aa03b759b3fdd1e
+      internalID: 1812770473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 220
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160fbd724cef7d4f87870d579ecc8d5
+      internalID: -1768085222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed23a33e5dbe99489324ec3246364b8
+      internalID: 544016842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba680750e8f74e4c9ed66d03570139a
+      internalID: -1178171534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 176
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020a1f56869ddc419471681fa85b9cb
+      internalID: -998086739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd876d3c6424e346a2d57b3aad88336
+      internalID: -1722948496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_66
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f07d3d9be1b54d8d14dd3b57ed664
+      internalID: -1471569822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 176
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4dec754e2086844a2a3cefab0eddc8
+      internalID: 576243735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 168
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d59a671b015414fa623d03436003c4
+      internalID: -1302445806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055c66ac21936044d8730746c4181329
+      internalID: 1085221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_70
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 176
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e5f7c6e02cc80409cfd27137cb4b50
+      internalID: 1219714130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_71
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1769c088937d428906562f1b344c8
+      internalID: 1122605527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bc0ea7431e6e4f83aa75c265212c1
+      internalID: -745730287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_73
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56139d462ecd1614ca1136cf81b6631c
+      internalID: 1285714519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 134
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff21d2584044c4a9f204d131465611
+      internalID: -2075456518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 134
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acd13d51fb43c4e82ffd922f2f2818
+      internalID: 1743095279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_76
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfbfeb176023b4aac780edf108f301
+      internalID: 1545885058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 126
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a980bc4f4a7484693c15a86b787b7d
+      internalID: -1033394764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 134
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4f48b15472584da3871c041d36df1
+      internalID: -1458971411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 134
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29f0dee1a047104ea83ca933040667a
+      internalID: -104355525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 134
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba656b020e5b944bafa06ee2bdb666d
+      internalID: -827196074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a424b9f4e3f7de439c1c780534ec634
+      internalID: 2059573791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eaac65cd39b0b4f9416277d857be83
+      internalID: 1281643812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_83
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 90
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357673f81a970c34fb97850c43d873e5
+      internalID: -280610919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 90
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0062cd2a854d12e4890c8c98cd8f5739
+      internalID: 592393660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57931767ae7714fa9cac416a032d71
+      internalID: 2108942503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd91b389d4f634292b14f69f3e5023
+      internalID: 1349613130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 90
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bdb336de2f3fb45bc8c734883d50d1
+      internalID: 1226327739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35452a4d8749c141b48a7081431073d
+      internalID: -884712208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 90
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4729c0503b124490a31e1ccdb5763
+      internalID: -1591876510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8247c83c3ed04be4295027e468cd874d
+      internalID: -2084006177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c31f1a49b1050479414e2fe1cdea16
+      internalID: 1934101865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_92
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c16fc0d93def48ac88b33fcf6d31c
+      internalID: 878542668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98535313c1a9dd43865abc3734d5010
+      internalID: -208841001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_94
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 54
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c8ed145d85a324b92c8b70fccee289
+      internalID: -315201139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f011df866f9642b29720741ca02e4
+      internalID: 2108345572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_96
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 54
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5494947466b54c9d584b2c3cf6fe2
+      internalID: -2053767718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 54
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8b1187ae318c47ab58faef4a9f865
+      internalID: 1966424172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092deb498b744c4b809ebe2b545fbf3
+      internalID: -389691532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d223d93d40e6a734e85fcd1c61dc21c7
+      internalID: 533757869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c25bb87b739d4fa73989e2a772fba
+      internalID: 344969453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdacf440afb3440b384ad20f8fd363
+      internalID: -615041589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8edaee933d9dbe4f98ca58281427e71
+      internalID: 1693474417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfe40377a2bd8409fbbfe7bd49297f
+      internalID: 1028937377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26603ab6b700e6145be98207a529d803
+      internalID: -1788134910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066de4c946615ed458c8d08f5f43b419
+      internalID: 575533832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_106
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 10
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b5c14237515394aab88b9b68fd3ec0
+      internalID: 1056172226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Tapper Root Beer Tapper - Customers Outer Space_107
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6acbc87aa15ed249abc282788828fe5
+      internalID: -1422731776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_0: 1018103396
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_1: 615418301
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_10: 827278776
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_100: 344969453
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_101: -615041589
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_102: 1693474417
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_103: 1028937377
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_104: -1788134910
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_105: 575533832
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_106: 1056172226
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_107: -1422731776
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_11: 424466296
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_12: -658831282
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_13: 1572235274
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_14: 1189389143
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_15: 1935042608
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_16: 2081465162
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_17: -937099017
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_18: 523191483
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_19: -1963796141
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_2: -1446416550
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_20: -1687430680
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_21: -1126188750
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_22: -702241508
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_23: 1366008997
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_24: -1616888146
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_25: -540442255
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_26: 334466790
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_27: -1290651009
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_28: -106039697
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_29: -1092419091
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_3: 174564177
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_30: -725716276
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_31: -1993052341
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_32: 1282511441
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_33: 442416777
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_34: 440896273
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_35: -555243854
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_36: -1206555154
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_37: 1598710606
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_38: 1811309841
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_39: -978679961
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_4: 1071422896
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_40: 715019882
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_41: -759234836
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_42: 1113351502
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_43: -1216043312
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_44: -386326562
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_45: -1166235874
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_46: -1251283745
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_47: -238366339
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_48: 1997806433
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_49: 56416723
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_5: 83200969
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_50: -1360780434
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_51: -1181913236
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_52: -85543987
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_53: -1029825547
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_54: 912594818
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_55: 2124782110
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_56: 1563958345
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_57: -416208200
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_58: 580897361
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_59: -352561136
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_6: 1090037658
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_60: 1812770473
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_61: -1768085222
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_62: 544016842
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_63: -1178171534
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_64: -998086739
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_65: -1722948496
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_66: -1471569822
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_67: 576243735
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_68: -1302445806
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_69: 1085221735
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_7: 428543872
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_70: 1219714130
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_71: 1122605527
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_72: -745730287
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_73: 1285714519
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_74: -2075456518
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_75: 1743095279
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_76: 1545885058
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_77: -1033394764
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_78: -1458971411
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_79: -104355525
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_8: -727224433
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_80: -827196074
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_81: 2059573791
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_82: 1281643812
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_83: -280610919
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_84: 592393660
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_85: 2108942503
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_86: 1349613130
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_87: 1226327739
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_88: -884712208
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_89: -1591876510
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_9: 1590550548
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_90: -2084006177
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_91: 1934101865
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_92: 878542668
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_93: -208841001
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_94: -315201139
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_95: 2108345572
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_96: -2053767718
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_97: 1966424172
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_98: -389691532
+      Arcade - Tapper Root Beer Tapper - Customers Outer Space_99: 533757869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
