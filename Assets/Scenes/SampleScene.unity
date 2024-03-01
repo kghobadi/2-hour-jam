@@ -1518,6 +1518,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: resourceExchange.hullHP
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: resourceExchange.credits
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2089,6 +2097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot -Repair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7508751105249520770, guid: 44c049c6e6db0634dad674c82daf4ea5, type: 3}
+      propertyPath: exchangeMessage
+      value: 
+      objectReference: {fileID: 4900000, guid: e80a2430894c0544bb92161e9f8e02a2, type: 3}
     - target: {fileID: 8081102371740078903, guid: 44c049c6e6db0634dad674c82daf4ea5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2351,6 +2363,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: resourceExchange.credits
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: resourceExchange.crewMorale
+      value: -10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2586,6 +2606,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2866154200467401116, guid: 4cf449e5ae0e42f4098a477be98dc648, type: 3}
+      propertyPath: exchangeMessage
+      value: 
+      objectReference: {fileID: 4900000, guid: d930b6dd42c1cad40a6400683908fe6a, type: 3}
     - target: {fileID: 4099893488390611560, guid: 4cf449e5ae0e42f4098a477be98dc648, type: 3}
       propertyPath: m_Name
       value: Warlord - Attack (1)
@@ -2643,6 +2667,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
+      propertyPath: resourceExchange.hullHP
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
+      propertyPath: resourceExchange.credits
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
+      propertyPath: resourceExchange.crewMorale
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 3998742682364430649, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
