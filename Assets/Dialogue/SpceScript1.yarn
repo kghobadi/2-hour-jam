@@ -1,0 +1,12 @@
+﻿title: SpceScript1
+tags:
+---
+/// The number of gold pieces that the player has.
+<<declare $gold = 0>>
+Luigi: Oh No a warlord!
+Luigi: don't destroy me i have cheese
+-> Gosh!
+-> Incredible!
+-> I'm amazed!
+Anyway, time to get writing!
+===
