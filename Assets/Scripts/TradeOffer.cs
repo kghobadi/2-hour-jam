@@ -25,5 +25,7 @@ public class TradeOffer : MonoBehaviour
     public ShipResources DenyExchange;
     public ShipResources NeutralExchange;
     public TextAsset exchangeMessage;
+    public string baseYarnNode;
 }
+
 

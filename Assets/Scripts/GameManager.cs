@@ -5,6 +5,7 @@ using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Events;
+using Yarn.Unity;
 
 [Serializable]
 public struct ShipResources
@@ -22,6 +23,10 @@ public struct ShipResources
 /// </summary>
 public class GameManager : MonoBehaviour
 {
+    private DialogueRunner dialogueRunner;
+
+    public float waitBetweenTrades = 0.5f;
+
     //reference to all trade offers
     public TradeOffer[] allTradeOffers;
     //this stores potential trades for a mission
@@ -68,9 +73,12 @@ public class GameManager : MonoBehaviour
     public TMP_Text MissionFailedText;
     public TMP_Text MissionFailedPleaseContinue;
 
+    public DialogueRunner DialogueRunner => dialogueRunner;
+
 
     private void Awake()
     {
+        dialogueRunner = FindObjectOfType<DialogueRunner>();
         //grab all trade offers in the scene 
         allTradeOffers = FindObjectsOfType<TradeOffer>();
     }
@@ -141,8 +149,13 @@ public class GameManager : MonoBehaviour
 
         //new ones 
         currentTrade = missionTrades[currentTradeIndex];
-        currentTrade.gameObject.SetActive(true); 
-        string actualMessage = currentTrade.exchangeMessage.text;
+        currentTrade.gameObject.SetActive(true);
+
+        //start base node
+        dialogueRunner.StartDialogue(currentTrade.baseYarnNode);
+
+        //this is old dialogue stuff
+        /*string actualMessage = currentTrade.exchangeMessage.text;
         string[] pieces = actualMessage.Split(' '); // separate strings "name" "place" and "age"
         string newMessage = "";
         foreach (var piece in pieces)
@@ -172,7 +185,8 @@ public class GameManager : MonoBehaviour
             
         }
         tradeText.text = newMessage;
-        UpdateResourcesText();
+        */
+      
     }
 
     /// <summary>
@@ -180,6 +194,13 @@ public class GameManager : MonoBehaviour
     /// </summary>
     public void NextTrade()
     {
+        StartCoroutine(WaitForNextTrade());
+    }
+
+    IEnumerator WaitForNextTrade()
+    {
+        yield return new WaitForSeconds(waitBetweenTrades);
+
         if (currentTradeIndex < missionTrades.Length - 1)
         {
             currentTradeIndex++;
@@ -320,6 +341,25 @@ public class GameManager : MonoBehaviour
         shipResources.crewMorale += x.crewMorale;
         shipResources.credits += x.credits;
     }
+
+    #region yarncommands
+    public void addHull(int x)
+    {
+        shipResources.hullHP += x;
+        UpdateResourcesText();
+    }
+    public void addMorale(int x)
+    {
+        shipResources.crewMorale += x;
+        UpdateResourcesText();
+    }
+    public void addCredits(int x)
+    {
+        shipResources.credits += x;
+        UpdateResourcesText();
+    }
+
+    #endregion
 
     void UpdateResourcesText()
     {

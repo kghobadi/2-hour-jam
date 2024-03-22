@@ -97,6 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38544a6fee6c5a1468d155e570cc49dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tradeType: 0
   resourceExchange:
     hullHP: 10
     crewMorale: 0
@@ -110,3 +111,4 @@ MonoBehaviour:
     crewMorale: 0
     credits: 0
   exchangeMessage: {fileID: 4900000, guid: 3adcb02432358c34aa91bcd22cbe2efa, type: 3}
+  baseYarnNode: RepairBotDialogue
