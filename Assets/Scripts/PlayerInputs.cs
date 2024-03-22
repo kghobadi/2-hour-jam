@@ -22,25 +22,7 @@ public class PlayerInputs : MonoBehaviour
 
     void Update()
     {
-        //checks if the recap screen is active
-        if(manager.MissionRecapScreen.activeSelf == false)
-        {
-            //take yes/no/neutral input (or other way of accepting exchange). 
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                manager.AcceptOffer();
-            }
-
-            if (Input.GetKeyDown(KeyCode.D))
-            {
-                manager.DenyOffer();
-            }
-
-            if (Input.GetKeyDown(KeyCode.N))
-            {
-                manager.NeutralOffer();
-            }
-        }
+        
         //resets game
         if (Input.GetKeyDown(KeyCode.R))
         {

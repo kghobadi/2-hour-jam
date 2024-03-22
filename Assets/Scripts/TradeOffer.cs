@@ -17,14 +17,9 @@ public enum TradeType
 /// </summary>
 public class TradeOffer : MonoBehaviour
 {
-    public TradeType tradeType;
     //what are the data values this trade uses as effects?
     //Could be positive or negative numbers. 
     //Include inverse setting - when we deny a trade, the inverse effect happens. 
-    public ShipResources resourceExchange;
-    public ShipResources DenyExchange;
-    public ShipResources NeutralExchange;
-    public TextAsset exchangeMessage;
     public string baseYarnNode;
 }
 
