@@ -364,6 +364,10 @@ PrefabInstance:
       propertyPath: yarnProject
       value: 
       objectReference: {fileID: 7545569452688597077, guid: eecfe17eacdfe424d865204c454840f2, type: 3}
+    - target: {fileID: 3579681405068720530, guid: 7f29e5f7ffdea4a6793cefb278b61f0c, type: 3}
+      propertyPath: startAutomatically
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7778558434935992803, guid: 7f29e5f7ffdea4a6793cefb278b61f0c, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -475,7 +479,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2753718018764665327, guid: 7f29e5f7ffdea4a6793cefb278b61f0c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1532466562}
   m_SourcePrefab: {fileID: 100100000, guid: 7f29e5f7ffdea4a6793cefb278b61f0c, type: 3}
 --- !u!4 &250202751 stripped
 Transform:
@@ -674,7 +681,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &414217743
 Transform:
   m_ObjectHideFlags: 0
@@ -1656,6 +1663,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
       propertyPath: resourceExchange.hullHP
       value: -20
       objectReference: {fileID: 0}
@@ -1682,6 +1693,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38544a6fee6c5a1468d155e570cc49dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1532466558 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2753718018764665327, guid: 7f29e5f7ffdea4a6793cefb278b61f0c, type: 3}
+  m_PrefabInstance: {fileID: 218965300}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1532466562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532466558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef97b0a7a0b6524aabc3f12c53d4cab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1546671746
@@ -2091,6 +2119,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
     - target: {fileID: 3998742682364430649, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2237,6 +2269,10 @@ PrefabInstance:
     - target: {fileID: 2206068104556671376, guid: 44c049c6e6db0634dad674c82daf4ea5, type: 3}
       propertyPath: m_Name
       value: Robot -Repair (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7508751105249520770, guid: 44c049c6e6db0634dad674c82daf4ea5, type: 3}
+      propertyPath: baseYarnNode
+      value: RepairBotDialogue
       objectReference: {fileID: 0}
     - target: {fileID: 7508751105249520770, guid: 44c049c6e6db0634dad674c82daf4ea5, type: 3}
       propertyPath: exchangeMessage
@@ -2392,6 +2428,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2684160870520480697, guid: 22ad871f2be69574392645d4e0850202, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
     - target: {fileID: 6010204781855898557, guid: 22ad871f2be69574392645d4e0850202, type: 3}
       propertyPath: m_Name
       value: Planet - Vacation
@@ -2503,6 +2543,10 @@ PrefabInstance:
     - target: {fileID: 2344857297579203972, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
       objectReference: {fileID: 0}
     - target: {fileID: 4725214472754855116, guid: 06dcfde65b9f0e4429432167fe10199b, type: 3}
       propertyPath: resourceExchange.credits
@@ -2677,6 +2721,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot -Repair
       objectReference: {fileID: 0}
+    - target: {fileID: 8760927731995084708, guid: b3bb38be824a8234197bb4df3fb3dbda, type: 3}
+      propertyPath: tradeType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8760927731995084708, guid: b3bb38be824a8234197bb4df3fb3dbda, type: 3}
+      propertyPath: baseYarnNode
+      value: RepairBotDialogue
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2734,6 +2786,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Warlord - Attack
       objectReference: {fileID: 0}
+    - target: {fileID: 8926955792728324833, guid: 2101b16f440d6fa4dbc0df271b8a9ee7, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2747,6 +2803,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2866154200467401116, guid: 4cf449e5ae0e42f4098a477be98dc648, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
     - target: {fileID: 2866154200467401116, guid: 4cf449e5ae0e42f4098a477be98dc648, type: 3}
       propertyPath: exchangeMessage
       value: 
@@ -2808,6 +2868,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 414217743}
     m_Modifications:
+    - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
+      propertyPath: baseYarnNode
+      value: SpceScript1
+      objectReference: {fileID: 0}
     - target: {fileID: 2658689304797304306, guid: 94e07d583af06ca49af46263b10a7d8f, type: 3}
       propertyPath: resourceExchange.hullHP
       value: 0
@@ -3066,7 +3130,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9030179745171121181, guid: a1ae54efdf7b84141ad180aa75319056, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

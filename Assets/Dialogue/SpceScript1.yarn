@@ -1,12 +1,67 @@
-﻿title: SpceScript1
-tags:
+﻿title: WarlordDialogue
 ---
-/// The number of gold pieces that the player has.
-<<declare $gold = 0>>
 Luigi: Oh No a warlord!
-Luigi: don't destroy me i have cheese
--> Gosh!
--> Incredible!
--> I'm amazed!
-Anyway, time to get writing!
+Warlord: HAND OVER 30 GOLD OR BE DESTROYED
+-> Ok, sure, right away, just don't destory me 
+    <<addCredits -30>>
+-> NO! Catch me if you can!
+    <<addMorale 5>>
+    <<addHull -10>>
+
+-> Can we make a deal
+    <<addCredits -10>>
+    <<addHull -5>>
+        thanks for the credits but no
+at least I made it out alive
+<<nextTrade>>
+===
+
+title: RepairBotDialogue
+---
+Luigi: Hello Repair bot!
+RepairBot: Can i help repair your hull in exchange for some credits
+-> Sure! 
+    <<addHull 10>>
+    <<addCredits -20>>
+-> No thanks.
+See you next time!
+<<nextTrade>>
+===
+
+title: DebrisDialogue
+---
+Distress Signal: zzzzzzzz...This is an automated Distress call requesting aaa..zzzzzz
+Luigi: oh no they sound like they need help
+-> Lets go help them! 
+    <<addMorale 10>>
+    <<addCredits 20>>
+    Rescued Mario: Thanks for the help Luigi, always coming to my rescue! take some credits for helping me out.
+-> Nevermind probably a scam call by space scammers.
+    <<addMorale -10>>
+    Luigi:Hopefully it wasn't actually real
+<<nextTrade>>
+===
+
+title: ParadisePlanetDialogue
+---
+Luigi: Hey there's a resort we can stay at. It could help improve Morale in exchange for credits.
+-> Sure, some R&R couldn't hurt! 
+    <<addMorale 25>>
+    <<addCredits -10>>
+-> Nope, you can enjoy the nice views from space as we fly by
+    <<addMorale -10>>
+See you next time!
+<<nextTrade>>
+===
+
+title: SmugglingDialogue
+---
+Unknown Person: Hey, I have a proposal for you. It pays really well, what do you say?
+-> Sure! 
+    <<addMorale -10>>
+    <<addCredits 27>>
+-> No thanks.
+    <<addMorale 10>>
+    Luigi: He was probably going to get me into trouble anyways
+<<nextTrade>>
 ===
