@@ -49,4 +49,6 @@ public class CustomCommands : MonoBehaviour
     {
         gameManager.NextTrade();
     }
+
+    //TODO: addd a command that targets a particular game object by its name in the hierarchy and toggles its activity state to a boolean
 }
