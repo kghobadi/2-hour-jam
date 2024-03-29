@@ -1,9 +1,16 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using Yarn.Unity;
 
+[Serializable]
+public struct ItemType
+{
+    public string Name;
+    public GameObject ItemPrefab;
+}
 public class ItemManager : MonoBehaviour
 
 /*
@@ -16,25 +23,57 @@ Store a location for the Item Pile on the ship keep track of all Generated Items
 A Yarn Command from grabbing an instance of an Item from the Item Pile to give for Trades during dialogue.
  */
 {
-    
-    public Dictionary<string, Item> ItemDictionary = new Dictionary<string, Item>();
-    //This is the dictionary of all items in the game
+    public ItemType[] allItemTypes;
     public List<Item> GeneratedItems = new List<Item>();
+    public Transform GenPoint;
     //this is the list of generated items in the game
     public void AddGenItem(Item y)
     {
-
+        GeneratedItems.Add(y);
     }
 
     public void RemoveGenItem(Item y)
     {
-
+        GeneratedItems.Remove(y);
+        Destroy(y.gameObject);
     }
 
-    [YarnCommand]
+    public ItemType getItemByName(string x)
+    {
+        ItemType item = new ItemType();
+        foreach (ItemType y in allItemTypes)
+        {
+            if (x == y.Name)
+            {
+                item = y;
+                break;
+            }
+        }
+        return item;
+    }
+
+    //TODO: find some way to randomize genpoint position within a range
     public Item GenerateItem(string key)
     {
-        return ItemDictionary[key];
+        ItemType item = getItemByName(key);
+        GameObject itemClone = Instantiate(item.ItemPrefab, GenPoint.position, Quaternion.identity, transform);
+        Item itemComponent = itemClone.GetComponent<Item>();
+        itemComponent.ItemMgr = this;
+        AddGenItem(itemComponent);
+        return itemComponent;
+    }
+
+    public void GenerateRandom()
+    {
+        int random = UnityEngine.Random.Range(0,allItemTypes.Length);
+        GenerateItem(allItemTypes[random].Name);
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E)){
+            GenerateRandom();
+        }
     }
 
     [YarnCommand]

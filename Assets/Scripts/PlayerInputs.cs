@@ -9,6 +9,7 @@ using UnityEngine;
 public class PlayerInputs : MonoBehaviour
 {
     public GameManager manager;
+    private AudioSource playerSource;
 
 
     // Start is called before the first frame update
@@ -18,6 +19,7 @@ public class PlayerInputs : MonoBehaviour
         {
             manager = FindObjectOfType<GameManager>();
         }
+        playerSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -42,5 +44,10 @@ public class PlayerInputs : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void PlaySound(AudioClip sound)
+    {
+        playerSource.PlayOneShot(sound);
     }
 }

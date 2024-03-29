@@ -20,15 +20,22 @@ using UnityEngine;
 /// </summary>
 public class Item : MonoBehaviour
 {
+    protected ItemManager itemManager;
+    public ItemManager ItemMgr { 
+        get => itemManager; 
+        set => itemManager = value; 
+    }
     public string itemName;
     private SpriteRenderer spriteRenderer;
     protected bool IsDragging;
     protected Camera MainCamera;
+    protected BoxCollider2D boxCollider2D;
     // Start is called before the first frame update
-    void Start()
+    protected virtual void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         MainCamera = Camera.main;
+        boxCollider2D = GetComponent<BoxCollider2D>();
     }
 
     protected virtual void Update()
@@ -38,17 +45,19 @@ public class Item : MonoBehaviour
             transform.position =  new Vector3(MouseWorldPosition .x, MouseWorldPosition.y, transform.position.z);
         }
     }
-
+    #region MouseInteractions
     protected virtual void OnMouseDown()
     {
         //do something on mouse click
         IsDragging = true;
+        boxCollider2D.isTrigger = true;
         Debug.Log("player dragging" + itemName);
 
     }
     protected virtual void OnMouseUp()
     {
         IsDragging=false;
+        boxCollider2D.isTrigger = false;
     }
     protected virtual void OnMouseEnter()
     {
@@ -62,5 +71,22 @@ public class Item : MonoBehaviour
     {
         
     }
+    #endregion
+    #region triggerMethods
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (IsDragging)
+        {
+            if (collision.gameObject.CompareTag("Player"))
+            {
+                PlayerInteract();
+            }
+        }
+    }
+    protected virtual void PlayerInteract()
+    {
+        Debug.Log("hit luigi with" + itemName);
 
+    }
+    #endregion
 }
