@@ -97,16 +97,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38544a6fee6c5a1468d155e570cc49dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resourceExchange:
-    hullHP: -3
-    crewMorale: 0
-    credits: -20
-  DenyExchange:
-    hullHP: -20
-    crewMorale: 0
-    credits: 15
-  NeutralExchange:
-    hullHP: 0
-    crewMorale: 0
-    credits: 0
-  exchangeMessage: {fileID: 4900000, guid: 4a3ebb42ce73b294da1a026e6a305d3f, type: 3}
+  baseYarnNode: 
+  itemMemories:
+  - itemName: cheese
+    Favor: Hate
+    Value: 5
+  - itemName: jem
+    Favor: Love
+    Value: 50
+  - itemName: salvage
+    Favor: Neutral
+    Value: 20
+  characterName: Warlord

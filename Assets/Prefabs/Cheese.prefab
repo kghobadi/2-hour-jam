@@ -171,5 +171,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030b9639ecbf8964d8f00d2b6afca2b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Cheese
+  itemName: cheese
   eatingSound: {fileID: 8300000, guid: 1932b006db1b61742beb2431ca519d98, type: 3}

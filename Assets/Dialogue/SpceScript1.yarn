@@ -1,4 +1,5 @@
 ﻿title: WarlordDialogue
+position: -230,112
 ---
 Luigi: Oh No a warlord!
 Warlord: HAND OVER 30 GOLD OR BE DESTROYED
@@ -8,14 +9,14 @@ Warlord: HAND OVER 30 GOLD OR BE DESTROYED
     <<addMorale 5>>
     <<addHull -10>>
 -> Can we make a deal
-    <<addCredits -10>>
-    <<addHull -5>>
-        thanks for the credits but no
+    <<tradeItem cheese>>
+        thanks, I hate it!
 at least I made it out alive
 <<nextTrade>>
 ===
 
 title: RepairBotDialogue
+position: -195,-93
 ---
 Luigi: Hello Repair bot!
 RepairBot: Can i help repair your hull in exchange for some credits
@@ -28,6 +29,7 @@ See you next time!
 ===
 
 title: DebrisDialogue
+position: 44,-144
 ---
 Distress Signal: zzzzzzzz...This is an automated Distress call requesting aaa..zzzzzz
 Luigi: oh no they sound like they need help
@@ -42,6 +44,7 @@ Luigi: oh no they sound like they need help
 ===
 
 title: ParadisePlanetDialogue
+position: 256,32
 ---
 Luigi: Hey there's a resort we can stay at. It could help improve Morale in exchange for credits.
 -> Sure, some R&R couldn't hurt! 
@@ -54,6 +57,7 @@ See you next time!
 ===
 
 title: SmugglingDialogue
+position: 24,157
 ---
 Unknown Person: Hey, I have a proposal for you. It pays really well, what do you say?
 -> Sure! 
@@ -64,3 +68,4 @@ Unknown Person: Hey, I have a proposal for you. It pays really well, what do you
     Luigi: He was probably going to get me into trouble anyways
 <<nextTrade>>
 ===
+
