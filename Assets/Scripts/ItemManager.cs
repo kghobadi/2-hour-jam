@@ -23,11 +23,19 @@ Store a location for the Item Pile on the ship keep track of all Generated Items
 A Yarn Command from grabbing an instance of an Item from the Item Pile to give for Trades during dialogue.
  */
 {
+    private GameManager gameManager;
+    public GameManager Gamemgr => gameManager;
     public ItemType[] allItemTypes;
     public List<Item> GeneratedItems = new List<Item>();
+    //this is the list of generated items in the game
     public Transform GenPoint;
     public Transform GenPoint2;
-    //this is the list of generated items in the game
+
+    private void Awake()
+    {
+        gameManager = FindObjectOfType<GameManager>();
+    }
+
     public void AddGenItem(Item y)
     {
         GeneratedItems.Add(y);
@@ -83,10 +91,17 @@ A Yarn Command from grabbing an instance of an Item from the Item Pile to give f
             GenerateRandom();
         }
     }
-
-    [YarnCommand]
-    public void tradeItem(Item y)
+    public Item tradeItem(string ItemName)
     {
-
+        Item item = null;
+        foreach (var v in GeneratedItems)
+        {
+            if (v.itemName == ItemName)
+            {
+                item = v;
+                break;
+            }
+        }
+        return item;
     }
 }

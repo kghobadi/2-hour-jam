@@ -97,16 +97,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38544a6fee6c5a1468d155e570cc49dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resourceExchange:
-    hullHP: 0
-    crewMorale: -15
-    credits: 60
-  DenyExchange:
-    hullHP: 0
-    crewMorale: 10
-    credits: 0
-  NeutralExchange:
-    hullHP: 0
-    crewMorale: 0
-    credits: 0
-  exchangeMessage: {fileID: 4900000, guid: 7c09a5502e1847b4ea1264528bb1bd86, type: 3}
+  baseYarnNode: SmugglingDialogue
+  itemMemories:
+  - itemName: cheese
+    Favor: Hate
+    Value: 5
+  - itemName: jem
+    Favor: Love
+    Value: 50
+  - itemName: salvage
+    Favor: Neutral
+    Value: 20
+  characterName: Unknown Person
