@@ -26,6 +26,7 @@ A Yarn Command from grabbing an instance of an Item from the Item Pile to give f
     public ItemType[] allItemTypes;
     public List<Item> GeneratedItems = new List<Item>();
     public Transform GenPoint;
+    public Transform GenPoint2;
     //this is the list of generated items in the game
     public void AddGenItem(Item y)
     {
@@ -53,10 +54,17 @@ A Yarn Command from grabbing an instance of an Item from the Item Pile to give f
     }
 
     //TODO: find some way to randomize genpoint position within a range
+    private Vector3 GenPointing()
+    {
+        float y = UnityEngine.Random.Range(GenPoint.position.x, GenPoint2.position.x);
+        Vector3 x = new Vector3(y,GenPoint.position.y,GenPoint.position.z);
+        return x;
+    }
+
     public Item GenerateItem(string key)
     {
         ItemType item = getItemByName(key);
-        GameObject itemClone = Instantiate(item.ItemPrefab, GenPoint.position, Quaternion.identity, transform);
+        GameObject itemClone = Instantiate(item.ItemPrefab, GenPointing(), Quaternion.identity, transform);
         Item itemComponent = itemClone.GetComponent<Item>();
         itemComponent.ItemMgr = this;
         AddGenItem(itemComponent);
