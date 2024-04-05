@@ -1,0 +1,19 @@
+{"ItemMemory":
+	[
+		{
+			"itemName": "Cheese",
+			"Favor": "Hates",
+			"Value": "5"
+		},
+		{
+			"itemName": "Jem",
+			"Favor": "Loves",
+			"Value": "50"
+		},
+		{
+			"itemName": "Salvage",
+			"Favor": "Neutral",
+			"Value": "20"
+		}
+]
+}

@@ -1,3 +1,4 @@
+//using Newtonsoft.Json;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -21,6 +22,30 @@ public class TradeOffer : MonoBehaviour
     //Could be positive or negative numbers. 
     //Include inverse setting - when we deny a trade, the inverse effect happens. 
     public string baseYarnNode;
+    [SerializeField]
+    public ItemMemory[] itemMemories;
+    public string characterName;
+    //public TextAsset itemMemoryJson;
+    void Start()
+    {
+        //TODO these methods let us convert back and forth from JSON to C# - if we want to save data memories, this is how we will do it. 
+        //JsonSerializer.Deserialize<ItemMemory>(jsonString);
+        //string itemMemoryString = JsonSerializer.Serialize(itemMemory);
+    }
+
+    public int GetCreditValueByName(string itemname)
+    {
+        int val = 0;
+        foreach (var item in itemMemories)
+        {
+            if (item.itemName == itemname)
+            {
+                val = item.Value;
+                break;
+            }
+        }
+        return val;
+    }
 }
 
 

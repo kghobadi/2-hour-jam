@@ -24,6 +24,7 @@ public struct ShipResources
 public class GameManager : MonoBehaviour
 {
     private DialogueRunner dialogueRunner;
+    private ItemManager itemManager;
 
     public float waitBetweenTrades = 0.5f;
 
@@ -79,6 +80,7 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         dialogueRunner = FindObjectOfType<DialogueRunner>();
+        itemManager = FindObjectOfType<ItemManager>();
         //grab all trade offers in the scene 
         allTradeOffers = FindObjectsOfType<TradeOffer>();
     }
@@ -278,7 +280,20 @@ public class GameManager : MonoBehaviour
         shipResources.credits += x;
         UpdateResourcesText();
     }
+    public void TradeItem(Item item, bool dragDrop = false)
+    {
+        int credval = currentTrade.GetCreditValueByName(item.itemName);
+        addCredits(credval);
+        itemManager.RemoveGenItem(item);
 
+        //todo: check if this was a drag and drop trade. we can tell if it was passed in by an item directly
+        if (dragDrop)
+        {
+            //tell yarn to jump to node CharacterName + "_" + item.itemName 
+            //every character should have a canned response node for every item. 
+            //As a result, we should split dialogue files per character type: e.g, warlords, repair bots, distress signals.
+        }
+    }
     #endregion
 
     void UpdateResourcesText()
@@ -287,4 +302,6 @@ public class GameManager : MonoBehaviour
         moraleText.text = moraleDefault + shipResources.crewMorale;
         creditsText.text = creditsDefault + shipResources.credits;
     }
+
+
 }

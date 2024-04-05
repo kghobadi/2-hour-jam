@@ -81,6 +81,10 @@ public class Item : MonoBehaviour
             {
                 PlayerInteract();
             }
+            if (collision.gameObject.CompareTag("Trade"))
+            {
+                itemManager.Gamemgr.TradeItem(this, true);
+            }
         }
     }
     protected virtual void PlayerInteract()
