@@ -49,4 +49,8 @@ public class CustomCommands : MonoBehaviour
     {
         gameManager.NextTrade();
     }
+
+    //TODO: addd a command that targets a particular game object by its name in the hierarchy and toggles its activity state to a boolean
+    //TODO: add a command that generates an item of a given name from the item manager
+    //TODO: ad a command that trades  a given item from the players ship and progresses dialogue
 }

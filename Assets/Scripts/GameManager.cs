@@ -154,39 +154,6 @@ public class GameManager : MonoBehaviour
         //start base node
         dialogueRunner.StartDialogue(currentTrade.baseYarnNode);
 
-        //this is old dialogue stuff
-        /*string actualMessage = currentTrade.exchangeMessage.text;
-        string[] pieces = actualMessage.Split(' '); // separate strings "name" "place" and "age"
-        string newMessage = "";
-        foreach (var piece in pieces)
-        {
-            if (piece.Contains(hpIdentifier))
-            {
-                int hullval = currentTrade.resourceExchange.hullHP;
-                string z = math.abs(hullval).ToString();
-                newMessage = newMessage + " " + z;
-            }
-            else if (piece.Contains(moraleIdentifier))
-            {
-                int moralval = currentTrade.resourceExchange.crewMorale;
-                string z = math.abs(moralval).ToString();
-                newMessage = newMessage + " " + z;
-            }
-            else if (piece.Contains(creditIdentifier))
-            {
-                int credval = currentTrade.resourceExchange.credits;
-                string z = math.abs(credval).ToString();
-                newMessage = newMessage+" " + z;
-            }
-            else
-            {
-                newMessage = newMessage+" "+ piece;
-            }
-            
-        }
-        tradeText.text = newMessage;
-        */
-      
     }
 
     /// <summary>
@@ -293,53 +260,6 @@ public class GameManager : MonoBehaviour
         shipResources.crewMorale = initialResources.crewMorale;
         shipResources.credits = initialResources.credits;
         BeginMission();
-    }
-
-    public void AcceptOffer()
-    {
-        //what do we do with the trade offer? 
-        AddResources();
-        NextTrade();
-    }
-
-    public void DenyOffer()
-    {
-        //what do we do with the trade offer? 
-        RemoveResources();
-        NextTrade();
-    }
-
-    public void NeutralOffer()
-    {
-        //what do we do with the trade offer? 
-        //do nothing 
-        NeutralResources();
-        NextTrade();
-    }
-
-    //TODO for something like the warlord trade -- how do we do a NEGATIVE accept, and a NEGATIVE Deny? 
-    //When we accept his deal, we pay him. When we deny, he hurts us. 
-
-    void AddResources()
-    {
-        ResourceChanges(currentTrade.resourceExchange);
-    }
-
-    void RemoveResources()
-    {
-        ResourceChanges(currentTrade.DenyExchange);
-    }
-
-    void NeutralResources()
-    {
-        ResourceChanges(currentTrade.NeutralExchange);
-    }
-
-    void ResourceChanges(ShipResources x)
-    {
-        shipResources.hullHP += x.hullHP;
-        shipResources.crewMorale += x.crewMorale;
-        shipResources.credits += x.credits;
     }
 
     #region yarncommands

@@ -9,6 +9,7 @@ using UnityEngine;
 public class PlayerInputs : MonoBehaviour
 {
     public GameManager manager;
+    private AudioSource playerSource;
 
 
     // Start is called before the first frame update
@@ -18,29 +19,12 @@ public class PlayerInputs : MonoBehaviour
         {
             manager = FindObjectOfType<GameManager>();
         }
+        playerSource = GetComponent<AudioSource>();
     }
 
     void Update()
     {
-        //checks if the recap screen is active
-        if(manager.MissionRecapScreen.activeSelf == false)
-        {
-            //take yes/no/neutral input (or other way of accepting exchange). 
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                manager.AcceptOffer();
-            }
-
-            if (Input.GetKeyDown(KeyCode.D))
-            {
-                manager.DenyOffer();
-            }
-
-            if (Input.GetKeyDown(KeyCode.N))
-            {
-                manager.NeutralOffer();
-            }
-        }
+        
         //resets game
         if (Input.GetKeyDown(KeyCode.R))
         {
@@ -60,5 +44,10 @@ public class PlayerInputs : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void PlaySound(AudioClip sound)
+    {
+        playerSource.PlayOneShot(sound);
     }
 }

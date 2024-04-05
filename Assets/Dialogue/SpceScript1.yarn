@@ -7,7 +7,6 @@ Warlord: HAND OVER 30 GOLD OR BE DESTROYED
 -> NO! Catch me if you can!
     <<addMorale 5>>
     <<addHull -10>>
-
 -> Can we make a deal
     <<addCredits -10>>
     <<addHull -5>>
