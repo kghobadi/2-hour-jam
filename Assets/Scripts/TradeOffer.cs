@@ -22,6 +22,7 @@ public class TradeOffer : MonoBehaviour
     //Could be positive or negative numbers. 
     //Include inverse setting - when we deny a trade, the inverse effect happens. 
     public string baseYarnNode;
+    public string[] yarnNodes;
     [SerializeField]
     public ItemMemory[] itemMemories;
     public string characterName;
@@ -45,6 +46,15 @@ public class TradeOffer : MonoBehaviour
             }
         }
         return val;
+    }
+
+    public void SetRandomNode()
+    {
+        if(yarnNodes.Length > 0)
+        {
+            int dialogueindex = Random.Range(0, yarnNodes.Length);
+            baseYarnNode = yarnNodes[dialogueindex];
+        }
     }
 }
 

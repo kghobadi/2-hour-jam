@@ -1,0 +1,38 @@
+﻿title: MarioReturns
+---
+Mario: Hey Luigi it's a me, Mario! I need your help with something.
+->Sure, its always nice to help an old friend
+    <<jump TheMarioQuest>>
+->No! I rescued you last time and the time before that, why would i help you now?
+    Mario: Please help an old friend, I'll even throw in an item for your help.
+    ->Ok, what can i help you with
+        Mario: Alright we're going to a planet called Ikaderna in the Whatisthat system to meet a friend of mine.
+        <<jump TheMarioQuest>>
+    ->I already said no, do it yourself.
+        Mario: Ok, maybe next time.
+===
+
+title: TheMarioQuest
+---
+1 hour later
+Mysterious person: Who are you and why are you here:
+Mario: It's a me, Mario! I've come with a friend this time
+Mysterious person: NOT YOU AGAIN MARIO!!!
+->Who are you?
+    Worried Entrepreneur: Someone who invested to much in your friend just to watch him fail.
+->Why are we here Mario?
+    Mario: To get me a ship so I can save my princess and defeat a powerful warlord
+->Remain Silent
+Entrepreneur: So how do you plan to pay me this time Mario? Credits, Jems, or loans like the one you still haven't paid back yet?
+Mario: If you'd let me finish, I have your special Macguffin you asked me to get from that wreckage
+Happy Entrepreneur: Really!? Nevermind, Ill pay your friend here for helping transport you back while we discuss your reward.
+Happy Entrepreneur: So what would you like. I can give you plenty of credits or an item
+->I'll take the credits
+    Happy Entrepreneur: ahh, a fellow collector of wealth. Don't worry I have plenty to spare
+    <<addCredits 60>>
+->I think I'd prefer the item
+    Happy Entrepreneur: Sure Here's a valuable jem of mine
+    <<generateItem jem>>
+Mario: Thanks for the help
+<<generateItem salvage>>
+===

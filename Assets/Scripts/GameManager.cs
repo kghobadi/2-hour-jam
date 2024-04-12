@@ -154,6 +154,7 @@ public class GameManager : MonoBehaviour
         currentTrade.gameObject.SetActive(true);
 
         //start base node
+        currentTrade.SetRandomNode();
         dialogueRunner.StartDialogue(currentTrade.baseYarnNode);
 
     }
