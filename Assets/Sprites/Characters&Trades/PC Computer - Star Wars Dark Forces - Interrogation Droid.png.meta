@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 4d0f56dca818fc94aaa91f22b4e68a70
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84a1f2e3f63db24daf8ad6f0e653210
+      internalID: -233637840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34f2c17543ae44ea3bfefea3cbd792
+      internalID: -1558996820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90da14665674844b23cc9e17f1ac88
+      internalID: -80056689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d59444610eb87468726d6e4c2ba47f
+      internalID: 1964182799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7d209fc794734bbd0409d7bbccefa
+      internalID: -1855291779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b5d2b90c40004a9500145b9bda736
+      internalID: 84948080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef1c194c74417449bc562da4d52487
+      internalID: 867828976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586aac712ba800a4c8c3784e5c6d9f99
+      internalID: 1002920410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ca198ef9f8c345984069f7077bbf4
+      internalID: 1382361238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb03c91c78f18b419d4755759b4e34f
+      internalID: -247584033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9377ada04810c4287f8c448b553f7c
+      internalID: -357491960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 81.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16c984a5eb6064ebef508c6b1073b9
+      internalID: 811469791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd98fa6e2f9297448527bbd24fe7f3a
+      internalID: -872753972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9db1cec8727ecf43856b1c87de4b514
+      internalID: -1337422836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384867bdcd385c40bcf296581b12788
+      internalID: 64806977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a5ea5a11096c488ec048373fea101
+      internalID: -2046691374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5ae011d281fe4faeb5b018d33461d
+      internalID: 464681667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e5328029d260408769b67fd02a8bc
+      internalID: -1068609033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7183425f50593ed40bb19a71e5b28798
+      internalID: -559227536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b5e3754afdb246b9156a7d35e03c8
+      internalID: 827047753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897517dc3b9f1b4d9802cdfdfdaac7e
+      internalID: -49068821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c40026d644ff4b900352a9b932063
+      internalID: -315684715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d363aafa13f254aa46925b7b301795
+      internalID: -1260372189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Interrogation Droid_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 16.5
+        width: 55.833332
+        height: 49.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb684a166b8f0e2468fbf195f2dd05da
+      internalID: -1405112885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_0: -233637840
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_1: -1558996820
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_10: -357491960
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_11: 811469791
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_12: -872753972
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_13: -1337422836
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_14: 64806977
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_15: -2046691374
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_16: 464681667
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_17: -1068609033
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_18: -559227536
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_19: 827047753
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_2: -80056689
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_20: -49068821
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_21: -315684715
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_22: -1260372189
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_23: -1405112885
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_3: 1964182799
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_4: -1855291779
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_5: 84948080
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_6: 867828976
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_7: 1002920410
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_8: 1382361238
+      PC Computer - Star Wars Dark Forces - Interrogation Droid_9: -247584033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
