@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: b78a25258b72e8242b6fdf202e249cc8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb862723c3415d747b862c9fd975c2a4
+      internalID: -1695598855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dea80787c84c54bbafa6ee561f5013
+      internalID: 1719322422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee248335c1b4e5469a04adecebc5170
+      internalID: -913371803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d3b5bb7b95d64dbfd1ee440a4c9e8
+      internalID: -1361461293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f60a791d21b6488314efb8cae371f
+      internalID: 1302427291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195aadaf39ef08419598715e67172ee
+      internalID: -2013453340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872ff707400dd146a35bdf547a0de2d
+      internalID: -491402082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b933353eab2d347a8e9e6a7bc07b0a
+      internalID: -1551866564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24582d61318cd944883fd80b50291f54
+      internalID: -1089375716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e22449d931b64687a35c82f85e410
+      internalID: -243969608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99171b8b26468b94ab078625355179e5
+      internalID: 1802932254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3ec66c90dd554e8fa477630f97efd
+      internalID: 139209959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8abbdc51a8e8ae4caf8d5784e9a59d2
+      internalID: 443323839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f071e730821741a92f11493df310b
+      internalID: 822460212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d8dac3a8b8d73459b0b47dba4aacbc
+      internalID: -1852681127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37cb8a756090354094e6c7e048d8ff2
+      internalID: 770382539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1588dcf9c2544ca9c93afe486fd03
+      internalID: -1407776371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b64278086c6af46a9cfcde60d96d79
+      internalID: 734600214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c28ef16fbd68d4e92aea0ea1a74892
+      internalID: 949702202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6151c35d7daf7e4d8631f976baee4b8
+      internalID: -1964637703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c60dd51d3fd244fa6fbdef25966a6c
+      internalID: -310225633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a2ec7194406d488f5ec2f41ba3943
+      internalID: -24002627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b2eb3f053187418ea1d177bd47fc3
+      internalID: 376842008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b00484c01eb649a344348de9f31b0
+      internalID: 1789677962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247618275f040cd4e854c0fce3d4bd35
+      internalID: -238118473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739f12bcdd5d244faf52962887a522d
+      internalID: 294380072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950c618401d9654fa31c6935a8fe632
+      internalID: -1525727097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f76b2bee9db441aa4a1610e2bfd53
+      internalID: 1906420718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc324100001f5234d82d86bc8f7d6ba8
+      internalID: -1696409638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b381f673eadfc5459f19b8a7b0d5e7d
+      internalID: -638568821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb12a63d41754408a75fbd6fdb901f
+      internalID: -691442597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36154c9d1c665f4c932242524b29f68
+      internalID: -149600640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdaae6953bc5442a5efe450fabf483
+      internalID: -699138262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9744aa8a6c5a22e488c7c3ad1b39a088
+      internalID: -700661262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a108809c6257156468352d09a2381595
+      internalID: -1756640816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eeb113a291bf3489eda2af365660da
+      internalID: -316637884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27bfafc1562a5a438e23863425ced4d
+      internalID: 1215250400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6fdf923b4a520458039607dd78722d
+      internalID: -1412430385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da5f96ebef3be4bb1fff77ec5adf33
+      internalID: 1783933755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d30682fd6a7384ea587e5ef8b82c5c
+      internalID: -716058944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19684a462099938478bfe5211be8ef69
+      internalID: 1980652533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8585fe858edca44a7ff9f241efb79d
+      internalID: -2069795916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3911d763faa346a4a98a44d15ff6e6a2
+      internalID: 658253711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c6c3634c98e44385114b312668f91
+      internalID: -913077131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92a4752e7705d4cbc47892f0f6e3fb
+      internalID: -697203333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694184da77629046a9eeeb3d90b0558
+      internalID: -373219429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7b0eadbfb22d5468dfd0c1c10e30b9
+      internalID: 1538573644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_47
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cbea15ed0fb0b41b046cc18742707b
+      internalID: -410747933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_0: -1695598855
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_1: 1719322422
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_10: 1802932254
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_11: 139209959
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_12: 443323839
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_13: 822460212
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_14: -1852681127
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_15: 770382539
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_16: -1407776371
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_17: 734600214
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_18: 949702202
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_19: -1964637703
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_2: -913371803
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_20: -310225633
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_21: -24002627
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_22: 376842008
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_23: 1789677962
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_24: -238118473
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_25: 294380072
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_26: -1525727097
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_27: 1906420718
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_28: -1696409638
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_29: -638568821
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_3: -1361461293
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_30: -691442597
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_31: -149600640
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_32: -699138262
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_33: -700661262
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_34: -1756640816
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_35: -316637884
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_36: 1215250400
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_37: -1412430385
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_38: 1783933755
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_39: -716058944
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_4: 1302427291
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_40: 1980652533
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_41: -2069795916
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_42: 658253711
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_43: -913077131
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_44: -697203333
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_45: -373219429
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_46: 1538573644
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_47: -410747933
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_5: -2013453340
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_6: -491402082
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_7: -1551866564
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_8: -1089375716
+      Custom Edited - Mario Customs - Coin Hotel Mario New Super Mario Bros-Style_9: -243969608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

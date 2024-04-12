@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 4e3dd7ea79ed83a46bd746f7b77e044b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50132ba22e30fd14896dcbf1c02a74c9
+      internalID: 33969887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f372ca61df50c054d807e0d266130666
+      internalID: 1345148633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436b88c21c2b2b49927463243f8436c
+      internalID: 1180574555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a16236fb775c48a97eddff29f59f7
+      internalID: 419607807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7848f5f2d84947b2d5c73f464d8ae
+      internalID: -1081033595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750cef640ed60f541860792a66ec5f51
+      internalID: 563160144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab21a798c8e4da4991bb1b54c0c3854
+      internalID: -699245479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc003354cfb209749b126592e093b544
+      internalID: 2072489036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38cf1f7e6e7b054aa21b94fe89049b2
+      internalID: 632795939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7cee494a67a345959f975b055202b
+      internalID: -1469605811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2fe128f4d5624d88b8d636c7986da
+      internalID: -1902763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70abbf1bec7f9b41a72be2fa55a9ed6
+      internalID: -1698896440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c052cdeccab74ebf11099c631047a
+      internalID: 1368961669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447ddc1928a86e4bae5541e52a3d136
+      internalID: -1508511279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be8941eefa5d340b04fa5488ae1e66
+      internalID: -23268827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cccac540803d0409ca0aafb117e337
+      internalID: -1326000260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3705bcdbb6a24abbb727533bb56e1
+      internalID: 2040446487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28322f49482d47345b59775be6aaf9c3
+      internalID: -1084792199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a119ef489f4c46ad683eca9da37f4
+      internalID: 1199328130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d77754fea8624dba21d10996f72c0
+      internalID: 475009236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6219dc34196a3b4ea38bd5961422d69
+      internalID: -1293590010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071d98098a89724986859bf2a0f385c
+      internalID: -1615474587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c38119c936db04fa2f4d6a8729d0c7
+      internalID: 1233651767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa6db752ae2c647ad29d0d5f81aa1c
+      internalID: 2013407765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12206a101cf964c9812861888d3df0
+      internalID: 1509244405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db42d95ff2cef64abcef4f8e7ee2884
+      internalID: 2002556248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248bb2d62e2568b419bb0be6bab6fc95
+      internalID: -1345971682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc83f6cfcbaa3d429fd6fa625d65bf7
+      internalID: -1172974962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_0: 33969887
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_1: 1345148633
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_10: -1902763651
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_11: -1698896440
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_12: 1368961669
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_13: -1508511279
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_14: -23268827
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_15: -1326000260
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_16: 2040446487
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_17: -1084792199
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_18: 1199328130
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_19: 475009236
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_2: 1180574555
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_20: -1293590010
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_21: -1615474587
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_22: 1233651767
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_23: 2013407765
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_24: 1509244405
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_25: 2002556248
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_26: -1345971682
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_27: -1172974962
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_3: 419607807
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_4: -1081033595
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_5: 563160144
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_6: -699245479
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_7: 2072489036
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_8: 632795939
+      Custom Edited - Mario Customs - Amp Super Mario Bros 1 NES-Style_9: -1469605811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
