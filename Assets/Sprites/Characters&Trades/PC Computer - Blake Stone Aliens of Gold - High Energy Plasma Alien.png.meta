@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: ba0f0f1f95ea1d449b4445251197eb6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d004db508663f45976c44aff2c8587
+      internalID: 68368626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad4257abd7d644b8561646e2c11606
+      internalID: 353669707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4279219570a841b960c3b9c05ae2e
+      internalID: 1803100063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce117ba1ac60b934c95404a8004617c0
+      internalID: 1884123834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a037c224b0600458d3b79ca9a3cce1
+      internalID: 249639232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff09eab7bd6b384e8b56338c7b77e55
+      internalID: -485762771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7efcadad25c7d4e8a82553040f8fca
+      internalID: 1530081829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873442dea0e6064387cb776e2a85dba
+      internalID: 1681917008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d437224718f54c8bfd8c5dc16e13b
+      internalID: -814903969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e14d8210ef16db49980300728ad961d
+      internalID: 2117196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151bfb2582d01dc459bcda651a16cfda
+      internalID: 1853922933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3801ab50b70809645afa986188a7371c
+      internalID: 534748541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42d964b6f516a4ca4595f6d86e3a7b
+      internalID: -1710721424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af30f699aa0274a9bf04e8da07d6d6
+      internalID: 1181390376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb577b0db25e31c4b88985897a19431b
+      internalID: -1217840873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0.75
+        width: 65.25
+        height: 80.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6d00afe0238d4499f170d9ac3566a
+      internalID: 2077401203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_0: 68368626
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_1: 353669707
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_10: 1853922933
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_11: 534748541
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_12: -1710721424
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_13: 1181390376
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_14: -1217840873
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_15: 2077401203
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_2: 1803100063
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_3: 1884123834
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_4: 249639232
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_5: -485762771
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_6: 1530081829
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_7: 1681917008
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_8: -814903969
+      PC Computer - Blake Stone Aliens of Gold - High Energy Plasma Alien_9: 2117196639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

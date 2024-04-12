@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: e323dff8d4ba890468a704d5d3e15a34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81ea7e9a4f157943b3b1e0db3432a98
+      internalID: 217572661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9a403ee75398429c6a2c29ade95a1
+      internalID: -1410128100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b692f57d38cb1d40a36dfbfd6f3a84c
+      internalID: -452529951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524dd04228e6464fbd5a98ee70af591
+      internalID: 2101261265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb899a20afa3604882ee46273ad9b38
+      internalID: 82870393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f6b80bb835624dab745c21d7ed038
+      internalID: 1777810178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dcd3281bf9e9642be5a72b00cfff71
+      internalID: -909440582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 326.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381539ac0d285264fb063023d9370855
+      internalID: -1300899911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ba155cdd1fff4b8c99eb2c99fee79
+      internalID: -474587630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a05b6baebb6044b9dfb46380e735a1
+      internalID: -321940740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b7594c4c276841870a20c3d35e12a
+      internalID: 2038059167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddc543dfb6f49409cbc22196087ef2
+      internalID: -525926598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f1237457d346489cdf70e96dc89b4
+      internalID: -927945981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469092f40ee42d4a90a022f425823dc
+      internalID: 357445493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930093c156d8dae42863e83cfe56f64e
+      internalID: -586948235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 264.66666
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7309bfd7f933ac48a94958780905e79
+      internalID: -684945507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66c368c3d67814d80697ced7f54cf7
+      internalID: 42112911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797b43b965383b43ac7e567bef44acb
+      internalID: -472395517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb027e655999c043896b96720dcda50
+      internalID: -1633526260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47ae056abdf3547b4470cd33c42f88
+      internalID: -762857940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab096bd4d4f157498c2450a3fec49e7
+      internalID: 1563133562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ef43c7218eb14b8daf997e5a1a777
+      internalID: 1094661109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4a502130ff4b429674c0f1c57e3f1
+      internalID: 2025568803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 202.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753d5e5f55d5cc4096ea8d34e5180c1
+      internalID: -828262700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592701c1a4c6bb14ca763a85e6c9cf7d
+      internalID: -1041572103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba733edda0bf54784e18caa0aaebc2
+      internalID: 591798532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa962cfdaa3bc47ba1189337e68e0e
+      internalID: -1059558590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179bba1d689e154ca38e5597a4acacf
+      internalID: 427338817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429cbe12d76632543bbaa7b851089655
+      internalID: 2023639163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae587b0a000c58e47a04da850662abe3
+      internalID: 1668962777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e07d4decdd38c4f96a2d4e2d147ae2
+      internalID: -1526033714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 140.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb7fbeccf039614fb5202c54ce838fe
+      internalID: -690009166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0262e022380b2c4198e4e662e036607
+      internalID: 1734133342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cebf547f012284d981b2af64661c86
+      internalID: -1725005442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e23daa6e436a429ec49043bbc30d1
+      internalID: 307244326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706471d16c1bb6d47b1b4ef3c3b305cb
+      internalID: -209644598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09febfaad0f5194da10b45dbbd72501
+      internalID: -103054199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be8dc178337c34f87a8543089c9d30
+      internalID: 1697619327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ee495fb510c14dad826af257eee9c
+      internalID: -454480843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 78.66667
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d20b146bbb6e44964b446f70a7f00
+      internalID: 1123812865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9639d04bcc16084eb1f2e4c3535a480
+      internalID: -1381659487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477582cf1982134785d33841bb05f0b
+      internalID: 293294801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163604b3db35804a9adf65d1e2dff7d
+      internalID: 1123933130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb3c991803b2c44a6d10e98a1f2649
+      internalID: 821464962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424e465e6800424bb7ecba0603214bd
+      internalID: 1493726616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5dcd512a710b549a748ac6f688a40a
+      internalID: -700579976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564d94323e8c7c4e8330775828fed48
+      internalID: 827229898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16.666668
+        width: 32.25
+        height: 47.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd16916cb89aa429aae5c69f032fa1
+      internalID: 967819893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_0: 217572661
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_1: -1410128100
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_10: 2038059167
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_11: -525926598
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_12: -927945981
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_13: 357445493
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_14: -586948235
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_15: -684945507
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_16: 42112911
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_17: -472395517
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_18: -1633526260
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_19: -762857940
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_2: -452529951
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_20: 1563133562
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_21: 1094661109
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_22: 2025568803
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_23: -828262700
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_24: -1041572103
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_25: 591798532
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_26: -1059558590
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_27: 427338817
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_28: 2023639163
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_29: 1668962777
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_3: 2101261265
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_30: -1526033714
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_31: -690009166
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_32: 1734133342
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_33: -1725005442
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_34: 307244326
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_35: -209644598
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_36: -103054199
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_37: 1697619327
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_38: -454480843
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_39: 1123812865
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_4: 82870393
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_40: -1381659487
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_41: 293294801
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_42: 1123933130
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_43: 821464962
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_44: 1493726616
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_45: -700579976
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_46: 827229898
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_47: 967819893
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_5: 1777810178
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_6: -909440582
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_7: -1300899911
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_8: -474587630
+      Sega Genesis 32X - Sword of Vermillion - Giant Mushrooms_9: -321940740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

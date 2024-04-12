@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 29fa59b1428d9d94e863cb9c4747030a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ecf37a862ef9b48af81ca7c264c6ab
+      internalID: 1354436366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9c3f0d97d0444a88c6b546037a1ec
+      internalID: -1222914437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23956a5bf69068246ac326dc70714f28
+      internalID: -1926143908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7935f3d8aa8821545a9cd4525618f7cf
+      internalID: 1645349357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cb5b8f19480ff4d9dcf3feb66e0d91
+      internalID: -180351316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c22dee7c2597294ba78e9a3aa6c0be7
+      internalID: -1300956740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df61071d1a1e44bb4d87a4f1c54f53
+      internalID: -353717068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e821e76c96be08479d682f4bf48b133
+      internalID: 4337497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e361753eeee34b96d9dcbda8c6278
+      internalID: 544638657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3e9d249494c34e9d0e9674c3f3b9e
+      internalID: 1764323722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2230c46b2a464f8a978968fec7af0
+      internalID: 2033847548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 240.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d76bae4e4a06b429644f666d549c05
+      internalID: 368739879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea8129f189202c4f8bc0e62a6705260
+      internalID: 1989199707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5351cf2e873443a9e45e4c84220b1
+      internalID: -1508896390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db2c2dae492eea44bdaa386135878d1
+      internalID: -1600608205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075db1b1d5182a4987543fa812b0fc6
+      internalID: -2106327478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d378b6687eb84393a7f5fe949bb99
+      internalID: -1423901739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 160.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c0fcec3197c24e8348dbbf27526f2
+      internalID: 359319165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd8150592496e44809982efea1ae2e
+      internalID: 909051764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91ce34ab358cd4e91f848c799128eb
+      internalID: -485163986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b1285283a58c4aa9fc7f54f81d9f4
+      internalID: -534571625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451d8017b4e4e04c951185e6340bb58
+      internalID: -65145945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b01752d5791bb4c87b702427d3c90e
+      internalID: -2054500217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 80.8
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199274a48cf6c9f4796298c294240bb1
+      internalID: -1712058617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13878280f88792b4bb295d84bb0b875a
+      internalID: 712054918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72ceb3397b14643b00f2cf64e16039
+      internalID: 1068243295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d39e20d4341b4786f9f3abb8e5db3
+      internalID: -187682412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8efb85f4b929bb4eb54a2d35f1d9ff6
+      internalID: 319730670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c308b4389f508a418b9ecb314f7a2fd
+      internalID: -274738308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0.80000305
+        width: 65.166664
+        height: 80.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80ee40d7ed17643b744442fa0e13e6
+      internalID: 1489850281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_0: 1354436366
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_1: -1222914437
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_10: 2033847548
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_11: 368739879
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_12: 1989199707
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_13: -1508896390
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_14: -1600608205
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_15: -2106327478
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_16: -1423901739
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_17: 359319165
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_18: 909051764
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_19: -485163986
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_2: -1926143908
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_20: -534571625
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_21: -65145945
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_22: -2054500217
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_23: -1712058617
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_24: 712054918
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_25: 1068243295
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_26: -187682412
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_27: 319730670
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_28: -274738308
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_29: 1489850281
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_3: 1645349357
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_4: -180351316
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_5: -1300956740
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_6: -353717068
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_7: 4337497
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_8: 544638657
+      PC Computer - Blake Stone Aliens of Gold - Experimental Genetic Alien_9: 1764323722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

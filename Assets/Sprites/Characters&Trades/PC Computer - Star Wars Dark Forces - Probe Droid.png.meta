@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: d8493065ca5d37c4aaaea526f307d09a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d76f5f66f3034bb323384922f0f25
+      internalID: -257723791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f960b566b9d54aa0e74a7ff29da55
+      internalID: -1088914082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d1dab27a31a84cbbc25b9fe1b148a
+      internalID: -847171546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b3db6d7a773c49a21ff2092af721c
+      internalID: 1996809425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d91da660782b54787f1d6edc56b211
+      internalID: -209672543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70216c4009561e749bbbfa851605615b
+      internalID: 1892421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f0fe7edd19644093781cf8aa4ba53
+      internalID: -699896614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005401dd004d5b0409fea1b931e6a8fc
+      internalID: -730600637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b15245da9cbf46a1b79203bf23613
+      internalID: -1855703547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d732f2e94e182947bda7e59abb609aa
+      internalID: -1612607658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e934a8f2d7a7d34db5cccb357b0641c
+      internalID: -1907400425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 98
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165ff11401ce4541a1f1835f2893f53
+      internalID: -1746703388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa27cf3de59c44a8d9d1a51f5d65c2
+      internalID: -1085582911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b31f6e76c25219438638bf58299d0e9
+      internalID: 1641781005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17d4200103e594eae03753c940e751
+      internalID: -196974397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78f49560bd1424d9593c1a13d76d98
+      internalID: 400616249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdcc2c94d10bf4bba1baeac589dd07
+      internalID: 1714249242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2c351d8fd1dd47b50af8d82830c4f
+      internalID: 472556773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d874b5abf6d4c840adf2b69227ca921
+      internalID: 960840097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fd620da8657b448858b9ca48fdbb8
+      internalID: 1457066605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7be2fe83f99340a83b4fbc27e473e
+      internalID: -1408428262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6036dc01a9f0db4c99a2fb4588e73da
+      internalID: -2116230214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a4042d35986f43a3044befaec38dd
+      internalID: 111233931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Dark Forces - Probe Droid_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 16
+        width: 49.25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a03152ffbea240ae5023656f8311b
+      internalID: -548079967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Star Wars Dark Forces - Probe Droid_0: -257723791
+      PC Computer - Star Wars Dark Forces - Probe Droid_1: -1088914082
+      PC Computer - Star Wars Dark Forces - Probe Droid_10: -1907400425
+      PC Computer - Star Wars Dark Forces - Probe Droid_11: -1746703388
+      PC Computer - Star Wars Dark Forces - Probe Droid_12: -1085582911
+      PC Computer - Star Wars Dark Forces - Probe Droid_13: 1641781005
+      PC Computer - Star Wars Dark Forces - Probe Droid_14: -196974397
+      PC Computer - Star Wars Dark Forces - Probe Droid_15: 400616249
+      PC Computer - Star Wars Dark Forces - Probe Droid_16: 1714249242
+      PC Computer - Star Wars Dark Forces - Probe Droid_17: 472556773
+      PC Computer - Star Wars Dark Forces - Probe Droid_18: 960840097
+      PC Computer - Star Wars Dark Forces - Probe Droid_19: 1457066605
+      PC Computer - Star Wars Dark Forces - Probe Droid_2: -847171546
+      PC Computer - Star Wars Dark Forces - Probe Droid_20: -1408428262
+      PC Computer - Star Wars Dark Forces - Probe Droid_21: -2116230214
+      PC Computer - Star Wars Dark Forces - Probe Droid_22: 111233931
+      PC Computer - Star Wars Dark Forces - Probe Droid_23: -548079967
+      PC Computer - Star Wars Dark Forces - Probe Droid_3: 1996809425
+      PC Computer - Star Wars Dark Forces - Probe Droid_4: -209672543
+      PC Computer - Star Wars Dark Forces - Probe Droid_5: 1892421407
+      PC Computer - Star Wars Dark Forces - Probe Droid_6: -699896614
+      PC Computer - Star Wars Dark Forces - Probe Droid_7: -730600637
+      PC Computer - Star Wars Dark Forces - Probe Droid_8: -1855703547
+      PC Computer - Star Wars Dark Forces - Probe Droid_9: -1612607658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

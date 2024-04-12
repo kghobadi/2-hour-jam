@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 4a59bff7e7135d84d80ebde30a57ba77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da519f50fe768534f9e03a4ac8d4502d
+      internalID: 1497285425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bd8c1d1170f294087d9f2ffc050335
+      internalID: -23838311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719464a18d889143988c478a7ea0268
+      internalID: -626804572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b363607c1428b4282480a90e111560
+      internalID: 961978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3430c1ab8df60f4795779b004993b74
+      internalID: -1728471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b6b7ddfc022f469a5446c47838dd6
+      internalID: 2041373151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 578.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e169514c3c8444828ab3b3bfa4d0a
+      internalID: -1468744970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6556ec0f8a5a40940a0a755025b111a3
+      internalID: 2008454932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22456f66df9846a4c8b8bab109c30819
+      internalID: 1084634811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db6e1e8f183964489a925aba6c362c
+      internalID: -1852815155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77623c4b0a6b4924494329c2b3d76eba
+      internalID: 98186308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c6bc91a0df984caa4f61289d8420e
+      internalID: 1829175839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4094c4b9f6a77745905a4f8fed4fd9a
+      internalID: 481964224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 405.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda94040dc66ea47b665a7786282667
+      internalID: -517054652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b83828a46363c4586d4afea1a3175f
+      internalID: 1128479736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb57678b2d4b5eb4e919c37eace73a37
+      internalID: 497854621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad8434d87b6d54691a97b59d0f2e2e
+      internalID: 1331398461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17f35a23d3968468b99f0b083d91de
+      internalID: -393604150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cab07338f868c489976237c05cb5d4
+      internalID: 596310557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616bb80418756741b978f1d79cccdb7
+      internalID: 592972778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 232.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8c8255440dfc4198a12ddd6814ef3
+      internalID: 1277377146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21361b6c23ceaaa45b6f9629cea457ed
+      internalID: 1682099077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c162cee1ef58342bcc9df553e25a12
+      internalID: 493536217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803d6ae8a0bee147939aa5c9de57cd1
+      internalID: -57621465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3e1dfa8b6b6d40ba01bc9b53b9ad8
+      internalID: 578475212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_25
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48e9f423faa4e45b40340542886562
+      internalID: -1743531772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_26
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd373ef7b2cd144ab66c1173c414c1b
+      internalID: -29168196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Foreverhood - Mushrooms_27
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 59.5
+        width: 141.42857
+        height: 115.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d80e5d62d0e4c4d84f92ef8891a7c9
+      internalID: -1799006838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Foreverhood - Mushrooms_0: 1497285425
+      PC Computer - Foreverhood - Mushrooms_1: -23838311
+      PC Computer - Foreverhood - Mushrooms_10: 98186308
+      PC Computer - Foreverhood - Mushrooms_11: 1829175839
+      PC Computer - Foreverhood - Mushrooms_12: 481964224
+      PC Computer - Foreverhood - Mushrooms_13: -517054652
+      PC Computer - Foreverhood - Mushrooms_14: 1128479736
+      PC Computer - Foreverhood - Mushrooms_15: 497854621
+      PC Computer - Foreverhood - Mushrooms_16: 1331398461
+      PC Computer - Foreverhood - Mushrooms_17: -393604150
+      PC Computer - Foreverhood - Mushrooms_18: 596310557
+      PC Computer - Foreverhood - Mushrooms_19: 592972778
+      PC Computer - Foreverhood - Mushrooms_2: -626804572
+      PC Computer - Foreverhood - Mushrooms_20: 1277377146
+      PC Computer - Foreverhood - Mushrooms_21: 1682099077
+      PC Computer - Foreverhood - Mushrooms_22: 493536217
+      PC Computer - Foreverhood - Mushrooms_23: -57621465
+      PC Computer - Foreverhood - Mushrooms_24: 578475212
+      PC Computer - Foreverhood - Mushrooms_25: -1743531772
+      PC Computer - Foreverhood - Mushrooms_26: -29168196
+      PC Computer - Foreverhood - Mushrooms_27: -1799006838
+      PC Computer - Foreverhood - Mushrooms_3: 961978150
+      PC Computer - Foreverhood - Mushrooms_4: -1728471780
+      PC Computer - Foreverhood - Mushrooms_5: 2041373151
+      PC Computer - Foreverhood - Mushrooms_6: -1468744970
+      PC Computer - Foreverhood - Mushrooms_7: 2008454932
+      PC Computer - Foreverhood - Mushrooms_8: 1084634811
+      PC Computer - Foreverhood - Mushrooms_9: -1852815155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

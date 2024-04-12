@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,2191 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14427dfbc3482f4e96e82abf1dac8fa
+      internalID: 1671653822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd43e85504a9d34eb42c4be4c3ed0c1
+      internalID: 384074458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bf3f176bb2cf4482fd314fa6ddbd9
+      internalID: -839927134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269df5c8207a4254f9a63be10867e4ad
+      internalID: 1556016475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f196d55158896ea4cb424e0dc066388b
+      internalID: -268020810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644445b2b59df2e4cbaa2c5061dfaef3
+      internalID: 250400159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b819a1dd5c7de9e4ca5504e5253c02f4
+      internalID: -714758716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 793.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179946200e0c6a242a390dd6a36b3c26
+      internalID: 374163685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45eb801a385c034286070e5497c07da
+      internalID: 547527366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac52cfce70e24c45a299532c5afde0e
+      internalID: -2124777340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be55598d99120847adef38e0fee73cd
+      internalID: -844800811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd083a28720c74db1e1c28dd8527d5
+      internalID: -2061091314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209d2c5fbdef4034a9ba19e07f6e35f3
+      internalID: -1777466980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5155e88da1654a88d983ae75376df
+      internalID: -585110733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d58c485ba7c684a894e56e4fb785b7
+      internalID: -1431466272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 727.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a97e458a2afb4d91686df62315cfa
+      internalID: 351315856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356007ecc26b94419b331ee054ceb0d
+      internalID: -957674734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d04aade92b47b48abc4805635a8166
+      internalID: -1323550847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea7fffeb8b7384bbf706ce6e30d831
+      internalID: -830251467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b7d57aade9f7f4898dc4af416fb45f
+      internalID: 367041290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397e0149f971ff44bee7c993528938d
+      internalID: 1624288594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef9f54db778304cb302f211471976a
+      internalID: 1246552815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae5c2c7b21d7d479a0e2a7fbe57878
+      internalID: 1896263766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 661.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ee9dd676641f438a6f2fb030aa17c
+      internalID: 1737326517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b83c0a292f11d45890c6cfb60f10f7
+      internalID: -790874399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada1bbc08421c74aa73cda44f1390dd
+      internalID: -2089312778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb761447c2604479dd0a9827936698
+      internalID: -1107627926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2898aad5415561499139b9b559beb58
+      internalID: 1042739779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c96ce365679641bb7c59e4921cb7b
+      internalID: 738259335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b991ca5aad86fbb4a8c904b4d32e739d
+      internalID: 2116418546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07897c719f5b15447b28c51ccff3e456
+      internalID: -940912794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 595.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13eaf26a1bb2734095a8fe1966d361b
+      internalID: 438712063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35a323385a98c45822932ebc902098
+      internalID: -999413891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658715e4c521af4e993b190feb8f840
+      internalID: 971483811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d5b1b4e5f579409fae62a37a02b31
+      internalID: -1591124794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209d354ee7f9ee4b9c5cfdbdaf2628e
+      internalID: 552787254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8dc3b56477dd49b8fd9ff3dc870c0
+      internalID: 597038128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde18bb9930cb2146bce4112a7db3898
+      internalID: -1865495166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec353270d2f5c844a65786b69d9f5f1
+      internalID: -1220832453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 529.8461
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03749c1e6bd0d84abe448123bf85e2d
+      internalID: 729630238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e1753b824c3a4b90d3688f1814190
+      internalID: -1520898248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aac621daab2e74b974499c135d4a1c
+      internalID: 2014693331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe478c1463c3ddf4796f3616e2c7ebcb
+      internalID: -242647328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb46ac162c6b2d45ac01ccc5196aa0a
+      internalID: 1790843389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc2254561e24740a4f040d0c254818
+      internalID: -1606778187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6d99a43db0794eb9b26c0cc6c8b50
+      internalID: -403631452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b58310e779d2a4e96aa29d9fed328e
+      internalID: -662018532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 463.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e5c116ce15ed4998aedee8a5386c8
+      internalID: 1485693618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049cf94262806c4586cf11465a43fa5
+      internalID: -1722152630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47074ad5b5a196a40b4d392c0d2ba168
+      internalID: -421190921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899bcd3453bb4149aa8331f16a05ea9
+      internalID: 534217196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4239884d7cd941e4eb044148011d0c2a
+      internalID: 1736460965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69070b852159b1b48abe7d377976846a
+      internalID: -834729037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ccc548644a36440b4d7c6a253f4fdf
+      internalID: -1307439129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d283aabe90fd408fe77a93f56c0fc
+      internalID: -916168706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 397.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c555eb67d516747a395895df4f75ed
+      internalID: 565299256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ca181280e783469525647e5c4af97
+      internalID: -991701217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab869f37b541d46831cfe01b7cd5b9
+      internalID: -1385715252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c00ba76b2ffd438bc4863cefb8092
+      internalID: 592948634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_59
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ce9858db43cb4a9a2869b6888b4b9
+      internalID: 1033222922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef20264b7758c7b4fa5df9868ff5e3f8
+      internalID: -1059925966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71bd457ac7c3944da7335fad3c757b0
+      internalID: -1156508660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1183e18c93bd43ba97e6ecf70697e
+      internalID: 19998888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 331.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095b82bdec71ad4a98711dea667a4df
+      internalID: 2140270365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ee874b0447ce4a8b82471616a0010
+      internalID: 493579782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79c1fc17514184e872cff4f37c2aea
+      internalID: -1809987777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56416233b6341842961910607dfb7f1
+      internalID: 466598458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61a79f55ce56d49ab7a3430cc37e2d
+      internalID: -1496577561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c09a23ac19293449829be231d94c94
+      internalID: -1329173525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53805ac63ee29864fa9a684cc2cb3fe2
+      internalID: -569156627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_70
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b83fd375760ee449a416e3c9a3daa23
+      internalID: -1928978530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 265.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253113f2f886ea74bab99d5e74dcb788
+      internalID: -131615355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13aa1aa275ae640bfddc024212fe76
+      internalID: -1088563458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2b39d20867f84380230aa30da1c3e
+      internalID: -614687479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6312d3443f3e34a9e260780732bf4e
+      internalID: -730667509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca48ada39725f479b2c25550d7fd7e
+      internalID: -138509029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_76
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920f1c6f1181bd469ee6337a483dda8
+      internalID: 685590713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_77
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31209477ab8e2842aabe19a4b91734b
+      internalID: -1509243136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae503b1660e236a4fb609c102754b305
+      internalID: 1512461277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 199.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e8b5671da6a642bec22390e65f82f
+      internalID: 1338448818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2d9a6895e33f42b77ba102cde2be1
+      internalID: 2126449310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65819a39ce0dca44fa112e4b52060962
+      internalID: 522582980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62169c7fde4760f4f8f92037d8e3ce79
+      internalID: 1206168709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faeccae6eb37d94ca15f178df1d95fe
+      internalID: -130208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35592ebc1ae284781e051a8f26dfb2
+      internalID: 1059381549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb29b344ac16e4db14be4b7ae434a6
+      internalID: 1453867997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95760f17258c7904ba65a406e084313d
+      internalID: -1604632498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_87
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 133.84616
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202852984e608384f8df96ff8ac3c333
+      internalID: -1357443203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ebf04d88b20347846c955392232f7
+      internalID: 1514794827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa4103caad3b64ab149529c9d3b8e6
+      internalID: 1835972083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d4d548d01cd0449b292dcaade7abb
+      internalID: 1259976817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f48a65c8472564d8c8e9326f35baad
+      internalID: -1406131409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9a9f1fc4e1d14ab338e49ba794d26
+      internalID: 1221782305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d774d0d72fe80c04983cd8d96a4f66eb
+      internalID: 1848404296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db062adb596992a4aab65827aad975f3
+      internalID: 1718125716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_95
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 67.84615
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb89d5c454cbe244b76287a10ddef01
+      internalID: -1147112079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86035bf2c28f247a315d24fc53b63e
+      internalID: -1144024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ed0b1dbf957e4bb07d3a52d308fb7
+      internalID: 1355778670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9afa85263e404cbd0641774f13bd1
+      internalID: -276913574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42736c09d774b64f872607cb3708d0d
+      internalID: 27551693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa5a01710a659c438ad1ea296176b5f
+      internalID: -884967981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babe9611158775746b8d511031298936
+      internalID: 1279767427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307234870d6e8548a56cb83ff4c1949
+      internalID: 1061701852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Corridor 7 - Space Marine & Space Seal_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1.8461533
+        width: 66.25
+        height: 66.15385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf1ae62dd613140b9e8dca0e10f7d6
+      internalID: -1826158251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +2316,111 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PC Computer - Corridor 7 - Space Marine & Space Seal_0: 1671653822
+      PC Computer - Corridor 7 - Space Marine & Space Seal_1: 384074458
+      PC Computer - Corridor 7 - Space Marine & Space Seal_10: -844800811
+      PC Computer - Corridor 7 - Space Marine & Space Seal_100: -884967981
+      PC Computer - Corridor 7 - Space Marine & Space Seal_101: 1279767427
+      PC Computer - Corridor 7 - Space Marine & Space Seal_102: 1061701852
+      PC Computer - Corridor 7 - Space Marine & Space Seal_103: -1826158251
+      PC Computer - Corridor 7 - Space Marine & Space Seal_11: -2061091314
+      PC Computer - Corridor 7 - Space Marine & Space Seal_12: -1777466980
+      PC Computer - Corridor 7 - Space Marine & Space Seal_13: -585110733
+      PC Computer - Corridor 7 - Space Marine & Space Seal_14: -1431466272
+      PC Computer - Corridor 7 - Space Marine & Space Seal_15: 351315856
+      PC Computer - Corridor 7 - Space Marine & Space Seal_16: -957674734
+      PC Computer - Corridor 7 - Space Marine & Space Seal_17: -1323550847
+      PC Computer - Corridor 7 - Space Marine & Space Seal_18: -830251467
+      PC Computer - Corridor 7 - Space Marine & Space Seal_19: 367041290
+      PC Computer - Corridor 7 - Space Marine & Space Seal_2: -839927134
+      PC Computer - Corridor 7 - Space Marine & Space Seal_20: 1624288594
+      PC Computer - Corridor 7 - Space Marine & Space Seal_21: 1246552815
+      PC Computer - Corridor 7 - Space Marine & Space Seal_22: 1896263766
+      PC Computer - Corridor 7 - Space Marine & Space Seal_23: 1737326517
+      PC Computer - Corridor 7 - Space Marine & Space Seal_24: -790874399
+      PC Computer - Corridor 7 - Space Marine & Space Seal_25: -2089312778
+      PC Computer - Corridor 7 - Space Marine & Space Seal_26: -1107627926
+      PC Computer - Corridor 7 - Space Marine & Space Seal_27: 1042739779
+      PC Computer - Corridor 7 - Space Marine & Space Seal_28: 738259335
+      PC Computer - Corridor 7 - Space Marine & Space Seal_29: 2116418546
+      PC Computer - Corridor 7 - Space Marine & Space Seal_3: 1556016475
+      PC Computer - Corridor 7 - Space Marine & Space Seal_30: -940912794
+      PC Computer - Corridor 7 - Space Marine & Space Seal_31: 438712063
+      PC Computer - Corridor 7 - Space Marine & Space Seal_32: -999413891
+      PC Computer - Corridor 7 - Space Marine & Space Seal_33: 971483811
+      PC Computer - Corridor 7 - Space Marine & Space Seal_34: -1591124794
+      PC Computer - Corridor 7 - Space Marine & Space Seal_35: 552787254
+      PC Computer - Corridor 7 - Space Marine & Space Seal_36: 597038128
+      PC Computer - Corridor 7 - Space Marine & Space Seal_37: -1865495166
+      PC Computer - Corridor 7 - Space Marine & Space Seal_38: -1220832453
+      PC Computer - Corridor 7 - Space Marine & Space Seal_39: 729630238
+      PC Computer - Corridor 7 - Space Marine & Space Seal_4: -268020810
+      PC Computer - Corridor 7 - Space Marine & Space Seal_40: -1520898248
+      PC Computer - Corridor 7 - Space Marine & Space Seal_41: 2014693331
+      PC Computer - Corridor 7 - Space Marine & Space Seal_42: -242647328
+      PC Computer - Corridor 7 - Space Marine & Space Seal_43: 1790843389
+      PC Computer - Corridor 7 - Space Marine & Space Seal_44: -1606778187
+      PC Computer - Corridor 7 - Space Marine & Space Seal_45: -403631452
+      PC Computer - Corridor 7 - Space Marine & Space Seal_46: -662018532
+      PC Computer - Corridor 7 - Space Marine & Space Seal_47: 1485693618
+      PC Computer - Corridor 7 - Space Marine & Space Seal_48: -1722152630
+      PC Computer - Corridor 7 - Space Marine & Space Seal_49: -421190921
+      PC Computer - Corridor 7 - Space Marine & Space Seal_5: 250400159
+      PC Computer - Corridor 7 - Space Marine & Space Seal_50: 534217196
+      PC Computer - Corridor 7 - Space Marine & Space Seal_51: 1736460965
+      PC Computer - Corridor 7 - Space Marine & Space Seal_52: -834729037
+      PC Computer - Corridor 7 - Space Marine & Space Seal_53: -1307439129
+      PC Computer - Corridor 7 - Space Marine & Space Seal_54: -916168706
+      PC Computer - Corridor 7 - Space Marine & Space Seal_55: 565299256
+      PC Computer - Corridor 7 - Space Marine & Space Seal_56: -991701217
+      PC Computer - Corridor 7 - Space Marine & Space Seal_57: -1385715252
+      PC Computer - Corridor 7 - Space Marine & Space Seal_58: 592948634
+      PC Computer - Corridor 7 - Space Marine & Space Seal_59: 1033222922
+      PC Computer - Corridor 7 - Space Marine & Space Seal_6: -714758716
+      PC Computer - Corridor 7 - Space Marine & Space Seal_60: -1059925966
+      PC Computer - Corridor 7 - Space Marine & Space Seal_61: -1156508660
+      PC Computer - Corridor 7 - Space Marine & Space Seal_62: 19998888
+      PC Computer - Corridor 7 - Space Marine & Space Seal_63: 2140270365
+      PC Computer - Corridor 7 - Space Marine & Space Seal_64: 493579782
+      PC Computer - Corridor 7 - Space Marine & Space Seal_65: -1809987777
+      PC Computer - Corridor 7 - Space Marine & Space Seal_66: 466598458
+      PC Computer - Corridor 7 - Space Marine & Space Seal_67: -1496577561
+      PC Computer - Corridor 7 - Space Marine & Space Seal_68: -1329173525
+      PC Computer - Corridor 7 - Space Marine & Space Seal_69: -569156627
+      PC Computer - Corridor 7 - Space Marine & Space Seal_7: 374163685
+      PC Computer - Corridor 7 - Space Marine & Space Seal_70: -1928978530
+      PC Computer - Corridor 7 - Space Marine & Space Seal_71: -131615355
+      PC Computer - Corridor 7 - Space Marine & Space Seal_72: -1088563458
+      PC Computer - Corridor 7 - Space Marine & Space Seal_73: -614687479
+      PC Computer - Corridor 7 - Space Marine & Space Seal_74: -730667509
+      PC Computer - Corridor 7 - Space Marine & Space Seal_75: -138509029
+      PC Computer - Corridor 7 - Space Marine & Space Seal_76: 685590713
+      PC Computer - Corridor 7 - Space Marine & Space Seal_77: -1509243136
+      PC Computer - Corridor 7 - Space Marine & Space Seal_78: 1512461277
+      PC Computer - Corridor 7 - Space Marine & Space Seal_79: 1338448818
+      PC Computer - Corridor 7 - Space Marine & Space Seal_8: 547527366
+      PC Computer - Corridor 7 - Space Marine & Space Seal_80: 2126449310
+      PC Computer - Corridor 7 - Space Marine & Space Seal_81: 522582980
+      PC Computer - Corridor 7 - Space Marine & Space Seal_82: 1206168709
+      PC Computer - Corridor 7 - Space Marine & Space Seal_83: -130208
+      PC Computer - Corridor 7 - Space Marine & Space Seal_84: 1059381549
+      PC Computer - Corridor 7 - Space Marine & Space Seal_85: 1453867997
+      PC Computer - Corridor 7 - Space Marine & Space Seal_86: -1604632498
+      PC Computer - Corridor 7 - Space Marine & Space Seal_87: -1357443203
+      PC Computer - Corridor 7 - Space Marine & Space Seal_88: 1514794827
+      PC Computer - Corridor 7 - Space Marine & Space Seal_89: 1835972083
+      PC Computer - Corridor 7 - Space Marine & Space Seal_9: -2124777340
+      PC Computer - Corridor 7 - Space Marine & Space Seal_90: 1259976817
+      PC Computer - Corridor 7 - Space Marine & Space Seal_91: -1406131409
+      PC Computer - Corridor 7 - Space Marine & Space Seal_92: 1221782305
+      PC Computer - Corridor 7 - Space Marine & Space Seal_93: 1848404296
+      PC Computer - Corridor 7 - Space Marine & Space Seal_94: 1718125716
+      PC Computer - Corridor 7 - Space Marine & Space Seal_95: -1147112079
+      PC Computer - Corridor 7 - Space Marine & Space Seal_96: -1144024857
+      PC Computer - Corridor 7 - Space Marine & Space Seal_97: 1355778670
+      PC Computer - Corridor 7 - Space Marine & Space Seal_98: -276913574
+      PC Computer - Corridor 7 - Space Marine & Space Seal_99: 27551693
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
