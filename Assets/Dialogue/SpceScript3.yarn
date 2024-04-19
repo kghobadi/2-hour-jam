@@ -54,9 +54,28 @@ Servant of the Unknown: Hey, its me again. I think its time we take things a ste
 ===
 title: Worcerstersherkerber_DivineBeast_Hub
 ---
+//TODO would be really cool to allow Players to enter key words for questions to The Lord of the Unknown!
+//He knows whatever is unknown. If even one conscious lifeform knows something, he loses it, only a vague memory of the lifeform leftover.
+//What is his goal?
 <<if $DivineBeastMeetings == 0>>
     The Divine Beast: Ah, Captain Luigi is it? What brings you to Worcerstersherkerber?
     The Divine Beast: No need to answer. I already know! My little minion sent for you. 
+    The Divine Beast: You may know me by my other name: Lord of the Unknown. 
+    The Divine Beast: As the title suggests, I know everything that remains unknown. 
+    The Divine Beast: If any lost soul has discovered something, it becomes theirs and the knowledge of all conscious entities.
+    The Divine Beast: So you see, I am in a bit of a infinite bind, as a result. 
+    The Divine Beast: What is it that you seek, Captain Luigi? Is it knowledge, or something else? 
+        -> Now listen here, Mr. Lord of the Unknown. Your Servant has been sacrificing civilians left and right.
+            Luigi: I want to know something. Are you alive? What is your purpose? Is your life forfeit to the weight of uncontrollable desires and knowledge like the rest of us?
+        -> I want to know the source of the Warlords in the Universe. What makes lifeforms so violent?
+            The Divine Beast: Well, it is a complicated topic. The source of all conflict can be traced back to the Big Bang.
+            The Divine Beast: Humanoids were created when all matter was splattered outward - but the inciting event was Creation itself.
+            The Divine Beast: Creation was, therefore, an inherently destructive event. The same is true on the planetary scale, just as it is for individual lifeforms.
+            The Divine Beast: How many poor souls have been lost due to childbirth? How many dull massacres have been carried out?
+            The Divine Beast: The only way out of the Prisoner's Dilemma, the dilemma of independent consciousness pitted against others...
+            The Divine Beast: Is... Fight or Flight! You must always pick wisely, Captain Luigi. 
+        -> I'd rather keeps things as they are.
+            The Divine Beast: Understandable, have a nice day.
 <<elseif $DivineBeastMeetings == 1>>
        <<jump Return_1_DivineBeast>>
 <<endif>>
@@ -67,5 +86,6 @@ title: Worcerstersherkerber_DivineBeast_Hub
 title: Return_1_DivineBeast
 ---
 The Divine Beast: Ah, Captain Luigi, you've returned to me, Your Lord of the Unknown.
-The Divine Beast: What is it you would like to know? 
+The Divine Beast: What is it you would like to know this time? 
+//TODO create more conversations! Perhaps develop that Key word system to make it systematic and tied to other trades/quests
 ===
