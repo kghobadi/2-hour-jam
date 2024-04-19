@@ -1,34 +1,71 @@
-﻿title: GoingHighProfile
+﻿title: HPQuestCraft_declare_variables
+tags:
+position: -628,-600
 ---
-Unknown Person: Hey, its me again. I think its time we take things a step further
--> Sure, I've always wanted to get to know you better
-    Unknown Person: I knew I liked you, no unnecessary questions.
--> Whats going on?
-    Unknown Person: Well, I have a proposition I'd like you to take a look at though it's quite long and dangerous.
-
--> I'd rather keeps things as they are.
-    Unknown Person: understandable, in this business there's as much risk, as reward.
+//*************** Code Variables *****************************/
+///SET IN CODE - Tracks Player meetings with the Servant of the Unknown.
+<<declare $ServantMeetings to 0>>
+///SET IN CODE - Tracks Player meetings with the Divine Beast (Lord of the Unknown).
+<<declare $DivineBeastMeetings to 0>>
+///BOOL examples 
+///USED FOR THINGS THAT ARE ALWAYS TRUE
+<<declare $CONST_TRUE to true>>
+///USED FOR THINGS THAT ARE ALWAYS FALSE
+<<declare $CONST_FALSE to false>>
 ===
-
-title: HPQuestcraft
+title: HPQuestcraft_Servant_Hub
 ---
-Unknown Person: So, there's this creature thats been after me for a while now
-Unknown Person: I've been using you to carry my sacrifices for him, but...
-->OH NO!!!
-    Unknown Person: I'm sorry
-->Why would make me do that?
-    Unknown Person: What else was I suppose to do, deliver it myself. What would he do if I got caught?
-->Suck it up, whatever your about to ask me, I don't care, and I'm sure you were probably going to be its meal anyways at some point.
-    Unknown Person: And I thought I was heartless.
-Unknown Person: I didn't have a choice.
-->So what do you want me to do about it
-    <<jump TheQuestContinues>>
-->NOPE, I'M OUT!
-    Unknown Person: Ok fine, I'll find someone else.
-===
+<<if $ServantMeetings == 0>>
+    Servant of the Unknown: Hello, Captain Luigi. I've been looking for you. 
+    Servant of the Unknown: Now that I can see you clearly, you must know there's this... Let's say "creature" thats been after me for a while.
+    Servant of the Unknown: In order to save myself, I carry out his orders. He wants me to sacrifice innocents on His behalf. 
+    ->OH NO!!!
+        Servant of the Unknown: I'm sorry
+    ->Why would he make you do that?
+        Servant of the Unknown: What else was I supposed to do, be annihilated in the abyss of the Unknown? The most painful eternal torment? 
+    ->Suck it up, whatever you're about to ask me, I don't care. I'm sure you are going to be its meal anyways.
+        Servant of the Unknown: And I thought I was heartless.
+    Servant of the Unknown: I didn't have a choice.
+    ->So what do you want me to do about it
+        <<jump TheQuestContinues>>
+    ->NOPE, I'M OUT!
+        Servant of the Unknown: Ok fine, but we will meet again, and soon the power of the Lord of the Unknown will be known. 
+<<elseif $ServantMeetings == 1>>
+       <<jump GoingHighProfile>>
+<<endif>>
 
+//Increment servant meetings 
+<<set $ServantMeetings to $ServantMeetings + 1>>
+===
 title: TheQuestContinues
 ---
-Unknown Person: I need you to travel to a forbidden celestial formation near the planet Worcerstersherkerber
-Unknown Person: He'll see you coming, negotiate with him and try to save us.
+Servant of the Unknown: I need you to travel to a forbidden celestial formation near the planet Worcerstersherkerber
+Servant of the Unknown: He'll see you coming, negotiate with him and try to save us.
+===
+title: GoingHighProfile
+---
+Servant of the Unknown: Hey, its me again. I think its time we take things a step further
+-> Sure, I've always wanted to get to know you better
+    Servant of the Unknown: I knew I liked you, no unnecessary questions.
+-> Whats going on?
+    Servant of the Unknown: Well, I have a proposition I'd like you to take a look at though it's quite long and dangerous.
+-> I'd rather keeps things as they are.
+    Servant of the Unknown: understandable, in this business there's as much risk, as reward.
+===
+title: Worcerstersherkerber_DivineBeast_Hub
+---
+<<if $DivineBeastMeetings == 0>>
+    The Divine Beast: Ah, Captain Luigi is it? What brings you to Worcerstersherkerber?
+    The Divine Beast: No need to answer. I already know! My little minion sent for you. 
+<<elseif $DivineBeastMeetings == 1>>
+       <<jump Return_1_DivineBeast>>
+<<endif>>
+
+//Increment DivineBeastMeetings
+<<set $DivineBeastMeetings to $DivineBeastMeetings + 1>>
+===
+title: Return_1_DivineBeast
+---
+The Divine Beast: Ah, Captain Luigi, you've returned to me, Your Lord of the Unknown.
+The Divine Beast: What is it you would like to know? 
 ===
