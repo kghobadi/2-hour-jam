@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7803788532145050789}
   - component: {fileID: 2658689304797304306}
   m_Layer: 0
-  m_Name: DebrisField
+  m_Name: ServantOfTheUnknown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d63aade2c2bc67246a04be2ff1f7f833, type: 3}
+  m_Sprite: {fileID: 21300000, guid: efe073dd28049864f8fb8226b70a6a76, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -97,7 +97,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38544a6fee6c5a1468d155e570cc49dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseYarnNode: DebrisDialogue
+  baseYarnNode: HPQuestcraft_Servant_Hub
+  yarnNodes: []
   itemMemories:
   - itemName: cheese
     Favor: Hate
@@ -108,4 +109,4 @@ MonoBehaviour:
   - itemName: salvage
     Favor: Neutral
     Value: 20
-  characterName: Distress Signal
+  characterName: ServantOfTheUnknown

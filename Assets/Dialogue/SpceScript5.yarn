@@ -1,0 +1,74 @@
+﻿title: JunglePlanet
+---
+Automated Response: Welcome to the IWO Animal Sanctuary! Please feel free to not crash and enjoy your stay.
+->Lets go check out some animals
+    Narrator: You arrive on the planet at a settlement. Upon leaving your ship your approached by someone asking for your help.
+        ->Is there something I can help you with?
+        ->Who are you and what do you want?
+        Curious Villager: My names Leroy and Mario said you could help me find a hidden treasure nearby
+            ->Go on
+                Leroy: We just need to travel to some nearby ruins, with your stereotypical traps and bad guys, all for 3 gold and a piece of cheese
+                ->Ok
+                    Leroy: And the best part. We'll jump to the end where I pulled a Jenkins and you save the day defeating the bad guys and taking the treasure
+                    ->What?
+                        <<addCredits 3>>
+                        <<GenerateItem cheese>>
+                        <<nextTrade>>
+            ->NOPE! You got the wrong guy, I'm just here to look at the space elephants and ride the tatowian turtles
+                Leroy: Ok. Enjoy the turtles.
+                <<nextTrade>>
+->Something doesn't seem right.
+    <<nextTrade>>
+===
+
+title: CityPlanet
+---
+Advertisement: BUY NOW! LIMITED TIME ONLY! ONLY 5 LEFT! ONLY FOUR CALLING BIRDS, THREE FRENCH HENS, TWO...
+->OH NO! Lets get out of here.
+    <<nextTrade>>
+->Lets go see what they have for sale
+    Galactic Store Salesman: What would you like to get today some scrap or food. How about an investment in fine jems. 
+    Galactic Store Salesman: Unfortunately, due to the Galactic Trade's taxes I can only afford to sell you one at the cost of 25 credits.
+    ->I'll take a jem
+        <<addCredits -25>>
+        <<generateItem jem>>
+    ->I'll take some scrap
+        <<addCredits -25>>
+        <<generateItem scrap>>
+    ->I'll take some food
+        <<addCredits -25>>
+        <<generateItem cheese>>
+    ->No thanks
+        Galactic Store Salesman: Ok.
+Galactic Store Salesman: Come again soon!
+<<nextTrade>>
+===
+
+title: ShipyardPlanet
+---
+Automated Signal: You have entered the Terran Galactic Shipyards. If you aren't here to purchase or repair you ship leave immediately.
+->Why are we here?
+    Automated Signal: YOU ARE REQUIRED TO REPLY OR ELSE WE WILL ASSUME HOSTILITIES
+    ->This is Captain Luigi, Where am I?
+        Some Random Person: Hello this is Joe. What do you mean where are you? The planet over there is Mars, and the Green one in the distance is Earth.
+        Joe:This is the Terran Galactic Shipyards where your ship and almost every other space ship was made. Now do you need repairs?
+            ->Yes
+                Joe: That'll be 10 credits after taxes
+                <<addHull 20>>
+                <<addCredits -10>>
+                <<nextTrade>>
+            ->No
+                Joe: Then please leave as soon as possible.
+                <<nextTrade>>
+    ->This is Captain Luigi, I'm here to fix my ship.
+        Automated Signal: That'll be 10 credits
+        ->Ok
+            <<addHull 20>>
+            <<addCredits -10>>
+            <<nextTrade>>
+        ->Nevermind
+            <<nextTrade>>
+->(Leave Immediately)
+    <<nextTrade>>
+===
+

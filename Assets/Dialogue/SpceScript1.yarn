@@ -21,7 +21,7 @@ position: -195,-93
 Luigi: Hello Repair bot!
 RepairBot: Can i help repair your hull in exchange for some credits
 -> Sure! 
-    <<addHull 10>>
+    <<addHull 15>>
     <<addCredits -20>>
 -> No thanks.
 See you next time!

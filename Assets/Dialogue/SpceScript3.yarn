@@ -1,0 +1,97 @@
+﻿title: HPQuestCraft_declare_variables
+tags:
+position: -628,-600
+---
+//*************** Code Variables *****************************/
+///SET IN CODE - Tracks Player meetings with the Servant of the Unknown.
+<<declare $ServantMeetings to 0>>
+///SET IN CODE - Tracks Player meetings with the Divine Beast (Lord of the Unknown).
+<<declare $DivineBeastMeetings to 0>>
+///BOOL examples 
+///USED FOR THINGS THAT ARE ALWAYS TRUE
+<<declare $CONST_TRUE to true>>
+///USED FOR THINGS THAT ARE ALWAYS FALSE
+<<declare $CONST_FALSE to false>>
+===
+title: HPQuestcraft_Servant_Hub
+---
+<<if $ServantMeetings == 0>>
+    Servant of the Unknown: Hello, Captain Luigi. I've been looking for you. 
+    Servant of the Unknown: Now that I can see you clearly, you must know there's this... Let's say "creature" thats been after me for a while.
+    Servant of the Unknown: In order to save myself, I carry out his orders. He wants me to sacrifice innocents on His behalf. 
+    ->OH NO!!!
+        Servant of the Unknown: I'm sorry
+    ->Why would he make you do that?
+        Servant of the Unknown: What else was I supposed to do, be annihilated in the abyss of the Unknown? The most painful eternal torment? 
+    ->Suck it up, whatever you're about to ask me, I don't care. I'm sure you are going to be its meal anyways.
+        Servant of the Unknown: And I thought I was heartless.
+    Servant of the Unknown: I didn't have a choice.
+    ->So what do you want me to do about it
+        <<jump TheQuestContinues>>
+    ->NOPE, I'M OUT!
+        Servant of the Unknown: Ok fine, but we will meet again, and soon the power of the Lord of the Unknown will be known. 
+<<elseif $ServantMeetings == 1>>
+       <<jump GoingHighProfile>>
+<<endif>>
+
+//Increment servant meetings 
+<<set $ServantMeetings to $ServantMeetings + 1>>
+===
+title: TheQuestContinues
+---
+Servant of the Unknown: I need you to travel to a forbidden celestial formation near the planet Worcerstersherkerber
+Servant of the Unknown: He'll see you coming, negotiate with him and try to save us.
+<<addTrade TheDivineBeast>>
+<<nextTrade>>
+===
+title: GoingHighProfile
+---
+Servant of the Unknown: Hey, its me again. I think its time we take things a step further
+-> Sure, I've always wanted to get to know you better
+    Servant of the Unknown: I knew I liked you, no unnecessary questions.
+-> Whats going on?
+    Servant of the Unknown: Well, I have a proposition I'd like you to take a look at though it's quite long and dangerous.
+-> I'd rather keeps things as they are.
+    Servant of the Unknown: understandable, in this business there's as much risk, as reward.
+<<nextTrade>>
+===
+title: Worcerstersherkerber_DivineBeast_Hub
+---
+//TODO would be really cool to allow Players to enter key words for questions to The Lord of the Unknown!
+//He knows whatever is unknown. If even one conscious lifeform knows something, he loses it, only a vague memory of the lifeform leftover.
+//What is his goal?
+<<if $DivineBeastMeetings == 0>>
+    The Divine Beast: Ah, Captain Luigi is it? What brings you to Worcerstersherkerber?
+    The Divine Beast: No need to answer. I already know! My little minion sent for you. 
+    The Divine Beast: You may know me by my other name: Lord of the Unknown. 
+    The Divine Beast: As the title suggests, I know everything that remains unknown. 
+    The Divine Beast: If any lost soul has discovered something, it becomes theirs and the knowledge of all conscious entities.
+    The Divine Beast: So you see, I am in a bit of a infinite bind, as a result. 
+    The Divine Beast: What is it that you seek, Captain Luigi? Is it knowledge, or something else? 
+        -> Now listen here, Mr. Lord of the Unknown. Your Servant has been sacrificing civilians left and right.
+            Luigi: I want to know something. Are you alive? What is your purpose? Is your life forfeit to the weight of uncontrollable desires and knowledge like the rest of us?
+        -> I want to know the source of the Warlords in the Universe. What makes lifeforms so violent?
+            The Divine Beast: Well, it is a complicated topic. The source of all conflict can be traced back to the Big Bang.
+            The Divine Beast: Humanoids were created when all matter was splattered outward - but the inciting event was Creation itself.
+            The Divine Beast: Creation was, therefore, an inherently destructive event. The same is true on the planetary scale, just as it is for individual lifeforms.
+            The Divine Beast: How many poor souls have been lost due to childbirth? How many dull massacres have been carried out?
+            The Divine Beast: The only way out of the Prisoner's Dilemma, the dilemma of independent consciousness pitted against others...
+            The Divine Beast: Is... Fight or Flight! You must always pick wisely, Captain Luigi. 
+        -> I'd rather keeps things as they are.
+            The Divine Beast: Understandable, have a nice day.
+
+    <<nextTrade>>
+<<elseif $DivineBeastMeetings == 1>>
+       <<jump Return_1_DivineBeast>>
+<<endif>>
+
+//Increment DivineBeastMeetings
+<<set $DivineBeastMeetings to $DivineBeastMeetings + 1>>
+===
+title: Return_1_DivineBeast
+---
+The Divine Beast: Ah, Captain Luigi, you've returned to me, Your Lord of the Unknown.
+The Divine Beast: What is it you would like to know this time? 
+<<nextTrade>>
+//TODO create more conversations! Perhaps develop that Key word system to make it systematic and tied to other trades/quests
+===

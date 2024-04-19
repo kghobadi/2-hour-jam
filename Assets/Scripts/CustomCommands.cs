@@ -44,6 +44,10 @@ public class CustomCommands : MonoBehaviour
            "tradeItem",     // the name of the command
            TradeGeneratedItem // the method to run
        );
+        dialogueRunner.AddCommandHandler<string>(
+           "addTrade",     // the name of the command
+           addTradeSequence // the method to run
+       );
     }
 
     private void AddHull(int hull)
@@ -87,6 +91,20 @@ public class CustomCommands : MonoBehaviour
         else
         {
             Debug.Log("No item of that name to trade!!");
+        }
+
+    }
+    private void addTradeSequence(string tradeName)
+    {
+        //todo: add method that adds a trade to our game manager
+        TradeOffer[] allChars = FindObjectsOfType<TradeOffer>(true); //true to include inactive game objects
+        foreach(TradeOffer trade in allChars)
+        {
+            if(trade.characterName == tradeName)
+            {
+                gameManager.addTrade(trade);
+                break;
+            }
         }
     }
 }
