@@ -1,0 +1,2560 @@
+fileFormatVersion: 2
+guid: 994a4cd78d5fa6c41a0bea2220fc409e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b1537d21c5c34ca854fb2fbf5b11a
+      internalID: 845958108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae17c8b75d67e4b9b75dcbea401bff
+      internalID: 899134269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f246deab4be534796aaa777151a6a3
+      internalID: -1638074299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4706fc46dc867304da0135275d8f693f
+      internalID: -1438706675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edd66064b215d41956fb27eaff087a
+      internalID: -1299052038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb9efa10e348447a5d8cd458f05b19
+      internalID: 875909346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea2b1b89a12174f9b6c46e0c032038
+      internalID: 1354984169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abafad602b95ec240b53ea644695afe1
+      internalID: 1983582164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce874fb6dec1445a5d884a3acde07f
+      internalID: 1287530890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944e8a630374634e9db16b81d17fc41
+      internalID: 1598302061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea97ca5c686d9948bcaed032809c2e1
+      internalID: 426902858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b9dbbc3a33d904e9640c1485dc9298
+      internalID: 933536887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e36394bafd274f91e64e82388f1ae
+      internalID: -1003494381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c0bd7844afacc449b4a323e5706f5a
+      internalID: 1747046263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05243053299f6eb45a197d0275337e0b
+      internalID: -43595292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370a064cde6b764bb502d3c5ad8c9e5
+      internalID: 2066647343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e797559cbe3e84494707c9b99dc692
+      internalID: 1587363212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f509280cb0a37a458af537fc4ee0a9d
+      internalID: -262646497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4822c04d2f0d4684c7cef368c8c3d
+      internalID: 2099756741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 239
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf8e0fb51d54c4780cd9dd89fec8e1
+      internalID: -1695148683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b293c60827e7343a4b428508e8438c
+      internalID: 849154377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e396d470a4d8f498903680e5681467
+      internalID: 164309220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bead66e47a58bd479ac6c224eb84e2d
+      internalID: -383544999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdaca06891ebb4ba3cac09548a659a
+      internalID: 1590096304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921518027a552a43a3c0ac10cc5b3e9
+      internalID: -1256987783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53275456a57c69a48979f7d4d66fe3b9
+      internalID: 286005734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd55715d3e5ce4e4d9dea7180bafeebe
+      internalID: -395041293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30646593f37c6d4abeb6bc849555807
+      internalID: 2073258747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7691722ee6ea4c9200106a60759f5
+      internalID: 780714766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 215
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70716c2e66242d04dad6ac0f8f3b91a1
+      internalID: -740039716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22db0b2caa5214b922272a1f467415
+      internalID: -476192372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c2d6b20b0e584fab42593b1ecf1af
+      internalID: 262778729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865717a3f6dfe214b949ff034af41163
+      internalID: 120120772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe6baa1edf79445b0281e35f07582b
+      internalID: 1824036468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb6afbcf99da94baa7c88cdd4db0d6
+      internalID: 1755468290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8b0ddfe902934ea93b067a283c50e
+      internalID: 1267588999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676b22abba2b584985e92d68e96d37e
+      internalID: -1728337413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe90f4359531d458f060f0eb90a125
+      internalID: 1213237956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e08dc0f8be3e04e9437a6fa2ae837c
+      internalID: -262345504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84150a02479de0b47b21fb87c154dff8
+      internalID: -737062589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca25d039e6bb44e88f99c754fb4e14
+      internalID: 1970356117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61fbeaf60a8154b997d03d0c35eac8
+      internalID: -1341917261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25d666679591e44a9cef712f00345a
+      internalID: 1373361964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7932bf4611e81f4ebdb830efd648113
+      internalID: 384554182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c4c9a036a00c4fa54d2e324dab129
+      internalID: 233903699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669dc3bb091b8b47ae63ace69dec74c
+      internalID: 1926371012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc5b6278177e542b42e119207b22e6
+      internalID: -1709165489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eeaee71f97cfa4995843ea66c948b2
+      internalID: 1871382247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5a528f3703c04f85a554b4dda3e00
+      internalID: 623064400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 167
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131160c7404456348bf595f6e6c2ffd8
+      internalID: 1518210071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9a937e0b614248a2a39d09026c03f
+      internalID: -127978979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114905cbfd00b6b458c36425161a352a
+      internalID: -20863374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6053b7bd721c43a326a671b19cf4d
+      internalID: 1002922083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7bc7a7d3c5bb2428b942614c9eb9c6
+      internalID: 762644590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb69dbc93e5744293262f96fc00976
+      internalID: -1209279060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b465f2f0541754183315dbcd63884b
+      internalID: 35717280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5b8d0879564214199b53830a43f259
+      internalID: 928414048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339be2341b5aae645ae92a5fc5be046e
+      internalID: 1459786131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813875d29a787248ae250902663261c
+      internalID: -1061378822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98275c8a396ed47b7b7ff6ea4adde7
+      internalID: 1186726783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f547295b3859074a8ac6bdb37e35557
+      internalID: -50880462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c0bc8d8366d8488245bb6967f0fe4
+      internalID: 217264475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_62
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86fc85118809c49b964cefdfbab913
+      internalID: -1134431864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c19ca9b99c27d4592d3eaee83178ac
+      internalID: 2147092072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11c4e87cb9f8d418c84858a8617102
+      internalID: -1715402991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246adef7e251ec41937821859ee905d
+      internalID: 45915846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e84b70025f9d4c8b23261f0d9dc24
+      internalID: 1717386088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dcbeb434669b94f8ec4df500faa89f
+      internalID: 329361359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b709dfc9559154746a07a6f9a8209b21
+      internalID: 1774520574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee713e5e83f8b1488aa7600565e7923
+      internalID: -574159829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f8b2dea039e3b428a0175de7906375
+      internalID: 1940187110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_71
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce8458d66f9a7488803c309f0f84a2
+      internalID: -687052245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5973588efc284687e5434bb449eaf
+      internalID: 2081743504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37649a79cc7eef498a6eef525d16b3b
+      internalID: 1612792176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38503cee927c60644807c0a4009a29fc
+      internalID: -1179453302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a9fd0c704424940a354ac99ae51731
+      internalID: -180694237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d6b0a6d3199d4f9b9a407b448d5f7
+      internalID: 248466264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa431a7fa5f28042a40c3c655aa8fd1
+      internalID: 735108404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25d04461485604192ebac6259091f8
+      internalID: -1245454540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89963d88fcb56a142b0dad2c5e6f23fb
+      internalID: -950205056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443198a556549340a8bb4d67d1557e0
+      internalID: -555463697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_81
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002decbe9c5786418be29fadd7542a4
+      internalID: -2062712975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a0c7fc69ed77c47925a04c3ab32f0b
+      internalID: 1549163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_83
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6db8b550ffc964c97c19caf31b6c51
+      internalID: 1952148906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38873b12bba8a6a43a448b568d5861ee
+      internalID: 2106233179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428f34bc9c5d9d41ba49436fba7d097
+      internalID: 1115436145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd8492b11b6be4891b4bfcc9217d20
+      internalID: -1080377405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfff77a8b100a1449999d91257754f5
+      internalID: 1950070395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b9a200a0c2d84c86496180cf04075
+      internalID: -442424632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d9d40e9268ca47a51039f3977f399
+      internalID: 872457807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8943a584b45f14f89163111cf8d1f2
+      internalID: -875810000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad959093a13f1ca48bb6c58213fb94e5
+      internalID: 980741793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_92
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd88c7828129e64ebbc8e8f436ac93a
+      internalID: -1928983106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9c2e61c47f8247ba7414f4761bb37
+      internalID: -14301990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519be7c4e0778ed4ab3791df5a952191
+      internalID: 432967472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc40975338c38784892c4c9f50fa5939
+      internalID: 105851319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf5bece92f86b45924bf989db1fa00
+      internalID: 2050915625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d6fd4d39f18744a1e24d52f230273
+      internalID: 338477465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_98
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb37b2f25da30d4aa86b9ff256ed5d9
+      internalID: 288482629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896a8b07fa89e147825a2097e67ac4a
+      internalID: 1906698454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9061db1ad641469c6097029d520ca
+      internalID: 328068427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_101
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773fcb725cf12874eb49fa655de8b83a
+      internalID: -1523870339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36395b4a03c974caf5197d17c7e7e9
+      internalID: -116604577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7196812193578c42a61aa7a1d8440df
+      internalID: -1010273522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496611e1616dd7145a83c1ecb932cd2e
+      internalID: -1408679016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e833266e82254a85a8ef4d7c0256d
+      internalID: -1875518890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_106
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230120bfee9d10649932feacab84e102
+      internalID: 214097427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a95890e364ad846ac9181da1035beb
+      internalID: 30050489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55e0745aa59384a8c8bf6c49ef504b
+      internalID: 1809279439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Out to Lunch - Cheese_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed25813cc2bec40be0b0cf31934071
+      internalID: -1858488167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Out to Lunch - Cheese_0: 845958108
+      SNES - Out to Lunch - Cheese_1: 899134269
+      SNES - Out to Lunch - Cheese_10: 426902858
+      SNES - Out to Lunch - Cheese_100: 328068427
+      SNES - Out to Lunch - Cheese_101: -1523870339
+      SNES - Out to Lunch - Cheese_102: -116604577
+      SNES - Out to Lunch - Cheese_103: -1010273522
+      SNES - Out to Lunch - Cheese_104: -1408679016
+      SNES - Out to Lunch - Cheese_105: -1875518890
+      SNES - Out to Lunch - Cheese_106: 214097427
+      SNES - Out to Lunch - Cheese_107: 30050489
+      SNES - Out to Lunch - Cheese_108: 1809279439
+      SNES - Out to Lunch - Cheese_109: -1858488167
+      SNES - Out to Lunch - Cheese_11: 933536887
+      SNES - Out to Lunch - Cheese_12: -1003494381
+      SNES - Out to Lunch - Cheese_13: 1747046263
+      SNES - Out to Lunch - Cheese_14: -43595292
+      SNES - Out to Lunch - Cheese_15: 2066647343
+      SNES - Out to Lunch - Cheese_16: 1587363212
+      SNES - Out to Lunch - Cheese_17: -262646497
+      SNES - Out to Lunch - Cheese_18: 2099756741
+      SNES - Out to Lunch - Cheese_19: -1695148683
+      SNES - Out to Lunch - Cheese_2: -1638074299
+      SNES - Out to Lunch - Cheese_20: 849154377
+      SNES - Out to Lunch - Cheese_21: 164309220
+      SNES - Out to Lunch - Cheese_22: -383544999
+      SNES - Out to Lunch - Cheese_23: 1590096304
+      SNES - Out to Lunch - Cheese_24: -1256987783
+      SNES - Out to Lunch - Cheese_25: 286005734
+      SNES - Out to Lunch - Cheese_26: -395041293
+      SNES - Out to Lunch - Cheese_27: 2073258747
+      SNES - Out to Lunch - Cheese_28: 780714766
+      SNES - Out to Lunch - Cheese_29: -740039716
+      SNES - Out to Lunch - Cheese_3: -1438706675
+      SNES - Out to Lunch - Cheese_30: -476192372
+      SNES - Out to Lunch - Cheese_31: 262778729
+      SNES - Out to Lunch - Cheese_32: 120120772
+      SNES - Out to Lunch - Cheese_33: 1824036468
+      SNES - Out to Lunch - Cheese_34: 1755468290
+      SNES - Out to Lunch - Cheese_35: 1267588999
+      SNES - Out to Lunch - Cheese_36: -1728337413
+      SNES - Out to Lunch - Cheese_37: 1213237956
+      SNES - Out to Lunch - Cheese_38: -262345504
+      SNES - Out to Lunch - Cheese_39: -737062589
+      SNES - Out to Lunch - Cheese_4: -1299052038
+      SNES - Out to Lunch - Cheese_40: 1970356117
+      SNES - Out to Lunch - Cheese_41: -1341917261
+      SNES - Out to Lunch - Cheese_42: 1373361964
+      SNES - Out to Lunch - Cheese_43: 384554182
+      SNES - Out to Lunch - Cheese_44: 233903699
+      SNES - Out to Lunch - Cheese_45: 1926371012
+      SNES - Out to Lunch - Cheese_46: -1709165489
+      SNES - Out to Lunch - Cheese_47: 1871382247
+      SNES - Out to Lunch - Cheese_48: 623064400
+      SNES - Out to Lunch - Cheese_49: 1518210071
+      SNES - Out to Lunch - Cheese_5: 875909346
+      SNES - Out to Lunch - Cheese_50: -127978979
+      SNES - Out to Lunch - Cheese_51: -20863374
+      SNES - Out to Lunch - Cheese_52: 1002922083
+      SNES - Out to Lunch - Cheese_53: 762644590
+      SNES - Out to Lunch - Cheese_54: -1209279060
+      SNES - Out to Lunch - Cheese_55: 35717280
+      SNES - Out to Lunch - Cheese_56: 928414048
+      SNES - Out to Lunch - Cheese_57: 1459786131
+      SNES - Out to Lunch - Cheese_58: -1061378822
+      SNES - Out to Lunch - Cheese_59: 1186726783
+      SNES - Out to Lunch - Cheese_6: 1354984169
+      SNES - Out to Lunch - Cheese_60: -50880462
+      SNES - Out to Lunch - Cheese_61: 217264475
+      SNES - Out to Lunch - Cheese_62: -1134431864
+      SNES - Out to Lunch - Cheese_63: 2147092072
+      SNES - Out to Lunch - Cheese_64: -1715402991
+      SNES - Out to Lunch - Cheese_65: 45915846
+      SNES - Out to Lunch - Cheese_66: 1717386088
+      SNES - Out to Lunch - Cheese_67: 329361359
+      SNES - Out to Lunch - Cheese_68: 1774520574
+      SNES - Out to Lunch - Cheese_69: -574159829
+      SNES - Out to Lunch - Cheese_7: 1983582164
+      SNES - Out to Lunch - Cheese_70: 1940187110
+      SNES - Out to Lunch - Cheese_71: -687052245
+      SNES - Out to Lunch - Cheese_72: 2081743504
+      SNES - Out to Lunch - Cheese_73: 1612792176
+      SNES - Out to Lunch - Cheese_74: -1179453302
+      SNES - Out to Lunch - Cheese_75: -180694237
+      SNES - Out to Lunch - Cheese_76: 248466264
+      SNES - Out to Lunch - Cheese_77: 735108404
+      SNES - Out to Lunch - Cheese_78: -1245454540
+      SNES - Out to Lunch - Cheese_79: -950205056
+      SNES - Out to Lunch - Cheese_8: 1287530890
+      SNES - Out to Lunch - Cheese_80: -555463697
+      SNES - Out to Lunch - Cheese_81: -2062712975
+      SNES - Out to Lunch - Cheese_82: 1549163812
+      SNES - Out to Lunch - Cheese_83: 1952148906
+      SNES - Out to Lunch - Cheese_84: 2106233179
+      SNES - Out to Lunch - Cheese_85: 1115436145
+      SNES - Out to Lunch - Cheese_86: -1080377405
+      SNES - Out to Lunch - Cheese_87: 1950070395
+      SNES - Out to Lunch - Cheese_88: -442424632
+      SNES - Out to Lunch - Cheese_89: 872457807
+      SNES - Out to Lunch - Cheese_9: 1598302061
+      SNES - Out to Lunch - Cheese_90: -875810000
+      SNES - Out to Lunch - Cheese_91: 980741793
+      SNES - Out to Lunch - Cheese_92: -1928983106
+      SNES - Out to Lunch - Cheese_93: -14301990
+      SNES - Out to Lunch - Cheese_94: 432967472
+      SNES - Out to Lunch - Cheese_95: 105851319
+      SNES - Out to Lunch - Cheese_96: 2050915625
+      SNES - Out to Lunch - Cheese_97: 338477465
+      SNES - Out to Lunch - Cheese_98: 288482629
+      SNES - Out to Lunch - Cheese_99: 1906698454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
