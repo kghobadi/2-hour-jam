@@ -1,5 +1,6 @@
 ﻿title: MarioReturns
 ---
+//use command to toggle mario on
 Mario: Hey Luigi it's a me, Mario! I need your help with something.
 ->Sure, its always nice to help an old friend
     <<jump TheMarioQuest>>

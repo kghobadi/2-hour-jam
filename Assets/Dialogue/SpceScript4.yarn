@@ -1,0 +1,56 @@
+﻿title: WarlordAlt1
+---
+Warlord: STOP RIGHT THERE! If you want us to let you go you need to pay 20 gold.
+-> OK! Here you go.
+    <<addCredits -20>>
+->Yeah right, like I'd pay you anything.
+    <<addHull -15>>
+    <<addMorale 5>>
+->I recently found this salvage you might like.
+    Warlord: Really!? I'll take it if you have some
+    <<tradeItem salvage>>
+I need to stop running into these pirates.
+<<nextTrade>>
+===
+
+title: WarlordAlt2
+---
+Hungry Warlord: Do you have food? I'm getting hungry and some cheese should fix that.
+Hungry Warlord: If not you could always pay me some gold or be destroyed.
+Hungry Warlord: Up to you.
+->Umm, sure? Here's some cheese I found.
+    <<tradeItem cheese>>
+    Happy Warlord: Thanks! Here, take this salvage.
+        <<generateItem salvage>>
+->If I give you 5 gold would that be enough
+    Unsatisfied Warlord: No but I'll take it anyways and let you go.
+    <<addCredits -5>>
+->Bother someone else.
+    Hangry Warlord: NO, I'M GOING TO BOTHER YOU!!!
+    ->Please don't I'd rather not destroy you.
+        Hangry Warlord: WHY SHOULD I? I'M HUNGRY AND YOUR NOT HELPING. DESTROYING ME WOULD FIX MY HUNGER PROBLEM.
+            ->(Visible Confusion)
+                Hangry Warlord: WHY ARE YOU STARING AT ME LIKE THAT!!! 
+                Hangry Warlord: YOU KNOW WHAT JUST LEAVE ME ALONE!!!
+                ->Ok
+            ->Ok.
+                <<addHull -10>>
+                <<addCredits 1>>
+                <<addMorale -10>>
+                <<generateItem salvage>>
+    ->BRING IT ON!
+        <<addHull -15>>
+        <<addMorale 5>>
+Well. That just happened.
+<<nextTrade>>
+===
+
+title: RepairBotAlt
+---
+Repair Bot 3A1E: Repair sale, get 30 hull for 30 credits
+->Sure
+    <<addHull 30>>
+    <<addCredits -30>>
+->No thanks.
+<<nextTrade>>
+===
