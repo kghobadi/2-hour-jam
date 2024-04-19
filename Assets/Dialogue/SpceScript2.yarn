@@ -11,6 +11,7 @@ Mario: Hey Luigi it's a me, Mario! I need your help with something.
         <<jump TheMarioQuest>>
     ->I already said no, do it yourself.
         Mario: Ok, maybe next time.
+        <<nextTrade>>
 ===
 
 title: TheMarioQuest
@@ -35,5 +36,25 @@ Happy Entrepreneur: So what would you like. I can give you plenty of credits or 
     Happy Entrepreneur: Sure Here's a valuable jem of mine
     <<generateItem jem>>
 Mario: Thanks for the help
-<<generateItem salvage>>
+    <<generateItem salvage>>
+    <<nextTrade>>
+===
+
+title: AttackOfTheMarios
+---
+Mario: Luigi, I might've made a small mistake. I was talking to this alien I found that said he knew how I could make my crew be in two places at once.
+Mario: And well, he did make two of us, then four more, then sixteen, and now there's hundreds of us.
+->(visible Confusion)
+    Mario: Don't look at me like that, you know I wanted spend more time with Peach while running my lucrative trade business.
+    Mario: Right now though I need you to send me some credits so I can solve this but don't worry I'll send you this cute little alien I found in a forest somewhere.
+    ->Sure?
+        <<addCredits -10>>
+        <<generateItem lilAlien>>
+        <<nextTrade>>
+    ->No thanks, Mario.
+        Mario:Ok I'll ask Bowser then, he's been looking to meet up with me for some reason after I took Peach from him.
+        <<nextTrade>>
+->Mario, I'm not doing this. I don't know what you did or why there's a hundred of you but I don't want to know.
+    Mario: Actually there's several hundred. But I understand.
+    <<nextTrade>>
 ===
