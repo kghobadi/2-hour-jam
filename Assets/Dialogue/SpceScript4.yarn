@@ -45,6 +45,16 @@ Well. That just happened.
 <<nextTrade>>
 ===
 
+title: WarlordAlt3
+---
+A warlord ship approaches you but doesn't attempt to attack you.
+Warlord Ship: tijyu oka ako boa
+->Who are you?
+    Warlord Ship:  
+->I'm not sticking around
+    <<nextTrade>>
+===
+
 title: RepairBotAlt
 ---
 Repair Bot 3A1E: Repair sale, get 30 hull for 30 credits
