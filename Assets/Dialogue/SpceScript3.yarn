@@ -41,6 +41,8 @@ title: TheQuestContinues
 ---
 Servant of the Unknown: I need you to travel to a forbidden celestial formation near the planet Worcerstersherkerber
 Servant of the Unknown: He'll see you coming, negotiate with him and try to save us.
+<<addTrade TheDivineBeast>>
+<<nextTrade>>
 ===
 title: GoingHighProfile
 ---
@@ -51,6 +53,7 @@ Servant of the Unknown: Hey, its me again. I think its time we take things a ste
     Servant of the Unknown: Well, I have a proposition I'd like you to take a look at though it's quite long and dangerous.
 -> I'd rather keeps things as they are.
     Servant of the Unknown: understandable, in this business there's as much risk, as reward.
+<<nextTrade>>
 ===
 title: Worcerstersherkerber_DivineBeast_Hub
 ---
@@ -76,6 +79,8 @@ title: Worcerstersherkerber_DivineBeast_Hub
             The Divine Beast: Is... Fight or Flight! You must always pick wisely, Captain Luigi. 
         -> I'd rather keeps things as they are.
             The Divine Beast: Understandable, have a nice day.
+
+    <<nextTrade>>
 <<elseif $DivineBeastMeetings == 1>>
        <<jump Return_1_DivineBeast>>
 <<endif>>
@@ -87,5 +92,6 @@ title: Return_1_DivineBeast
 ---
 The Divine Beast: Ah, Captain Luigi, you've returned to me, Your Lord of the Unknown.
 The Divine Beast: What is it you would like to know this time? 
+<<nextTrade>>
 //TODO create more conversations! Perhaps develop that Key word system to make it systematic and tied to other trades/quests
 ===

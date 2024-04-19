@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
     public float waitBetweenTrades = 0.5f;
 
     //reference to all trade offers
-    public TradeOffer[] allTradeOffers;
+    public List<TradeOffer> allTradeOffers = new List<TradeOffer>();
     //this stores potential trades for a mission
     private List<TradeOffer> potentialTrades = new List<TradeOffer>();
     //tracks the initial resources at the start of a mission
@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour
         dialogueRunner = FindObjectOfType<DialogueRunner>();
         itemManager = FindObjectOfType<ItemManager>();
         //grab all trade offers in the scene 
-        allTradeOffers = FindObjectsOfType<TradeOffer>();
+        //allTradeOffers = FindObjectsOfType<TradeOffer>();
     }
 
     // Start is called before the first frame update
@@ -90,6 +90,12 @@ public class GameManager : MonoBehaviour
     {
         currentMission = 0;
         BeginMission();
+    }
+
+    public void addTrade(TradeOffer trade)
+    {
+        allTradeOffers.Add(trade);
+        Debug.Log("we added a trade " + trade.gameObject.name);
     }
 
     /// <summary>
