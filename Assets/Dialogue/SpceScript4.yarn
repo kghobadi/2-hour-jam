@@ -50,7 +50,13 @@ title: WarlordAlt3
 A warlord ship approaches you but doesn't attempt to attack you.
 Warlord Ship: tijyu oka ako boa
 ->Who are you?
-    Warlord Ship:  
+    Warlord Ship:
+    ->What do you want?
+        <<generateItem lilAlien>>
+        Alien: Thank you for the save human, I'll be sticking around if you don't mind
+        <<nextTrade>>
+    ->NOPE, I DON'T LIKE THIS, I'M OUT!
+        <<nextTrade>>
 ->I'm not sticking around
     <<nextTrade>>
 ===
