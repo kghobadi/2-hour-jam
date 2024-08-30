@@ -9,11 +9,10 @@ Automated Response: Welcome to the IWO Animal Sanctuary! Please feel free to not
             ->Go on
                 Leroy: We just need to travel to some nearby ruins, with your stereotypical traps and bad guys, all for 3 gold and a piece of cheese
                 ->Ok
-                    Leroy: And the best part. We'll jump to the end where I pulled a Jenkins and you save the day defeating the bad guys and taking the treasure
-                    ->What?
-                        <<addCredits 3>>
-                        <<GenerateItem cheese>>
-                        <<nextTrade>>
+                    Narrator: After spending 3 hours wondering through some ruins that should've taken 3 minutes but for some reason required 50 rocks to be gathered first, their adventure was a success.
+                    <<addCredits 3>>
+                    <<GenerateItem cheese>>
+                    <<nextTrade>>
             ->NOPE! You got the wrong guy, I'm just here to look at the space elephants and ride the tatowian turtles
                 Leroy: Ok. Enjoy the turtles.
                 <<nextTrade>>
@@ -40,7 +39,7 @@ Advertisement: BUY NOW! LIMITED TIME ONLY! ONLY 5 LEFT! ONLY FOUR CALLING BIRDS,
         <<generateItem cheese>>
     ->No thanks
         Galactic Store Salesman: Ok.
-Galactic Store Salesman: Come again soon!
+    Galactic Store Salesman: Come again soon!
 <<nextTrade>>
 ===
 

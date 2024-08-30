@@ -1,0 +1,118 @@
+﻿title: SmugglerAlt
+position: 54,-327
+---
+???: Hello There!
+->Who are you?
+    Smith: I go by the name Smith, and that's all you need to know.
+->Identify yourself?
+    Smith: I am a trader by the name of Smith.
+->Whatever you want, no. That other shady person at least said his name was person or close to that.
+    <<nextTrade>>
+Smith: Recently, I took a job for a guy named Murio or something like that. He hired me to make a delivery of, lets say, desirable goods.
+Smith: Unfortunately, I won't be able to finish the run due to an engine malfunction. If I don't get these delivered. Well, things might not end well.
+Smith: Can you help me?
+->Sure, but what happens if I get caught?
+    Smith: Good Question.
+    ->You have an answer though, right?
+        Smith: NOPE! But I'm sure you'll be fine though. You seem alright. I'll make sure you get paid.
+        <<jump SmugglerAltpt2>>
+->Wait a minute. You want me to put my life on the line for you?
+    Smith: Yes.
+    ->Ok. I see nothing wrong with this at all.
+        Smith: Good to hear. I'll make sure you get paid for all your work.
+        Smith: In fact since I can feel all will go well here take you payment now.
+        <<generateItem jem>>
+        <<addCredits 15>>
+        Later...
+        Luigi: Hallelujah! I didn't get caught.
+        <<nextTrade>>
+    ->Well in that case. Good luck.
+        <<nextTrade>>
+->Nope
+    <<nextTrade>>
+===
+
+title: SmugglerAltpt2
+position: 55,-141
+---
+Enroute to Destination
+Officer: STOP RIGHT THERE! This path is a known route for smugglers and pirates. 
+Officer: IDENTIFY YOURSELF AND PREPARE TO BE BOARDED!
+-> Of Course, I'm Luigi.
+    Officer: Well, Luigi, do you have any contraband with you today?
+    ->No, why would I have any of that with me.
+        Officer: Understandable. You seem like a good citizen. Have a good day and watch out for pirates.
+        <<jump smugaltfin>>
+->We don't have to go through all this do we?
+    Officer: Standard protocol. If your cooperative it shouldn't take more than 3 days if you have nothing.
+    ->ok
+    ->What if I do?
+        Officer: Then we bring you in on transportation of contraband and you get imprisoned for being a pirate.
+        Luigi: oh
+    Officer: You seem like a nice person so I'm not worried.
+    Luigi to Crew: Quick hide the goods in my closet they'll never think to look there.
+    4 days later
+    Officer: We totally thought we hit the payday. Oh well. Well played captain Luigi. You seemed like you were totally hiding something but we couldn't find anything.
+    Officer: maybe next time.
+    <<jump smugaltfin>>
+->Actually, we are here on direct orders from command on an undercover assignment and need to get moving
+    Officer: Unlikely. We would've been alerted to such actions. I need your name captain to check my system.
+    ->Luigi
+        Officer: Your that person of interest involved in our Mario case
+        <<jump smugaltbadfin>>
+    ->Charles
+        Officer: Whats your operator number Charles?
+            ->1
+                Officer: Do you think I'm a fool, PIRATE!
+                <<jump smugaltbadfin>>
+            ->438573658379
+                Officer: Checks out. Sorry to bother you. WE'll give you a little scratch to make it look like you escaped from us.
+                <<addHull -5>>
+                <<jump smugaltfin>>
+            ->264738747643
+                Officer: I just checked the number, who are you really, PIRATE!
+                ->Luigi
+                    Officer: Wait. Your that person of interest from the Mario investigation.
+                    <<jump smugaltbadfin>>
+                ->Someone
+                    Officer: NICE TRY. YOU MUST NOT BE VERY BRIGHT
+                    <<jump smugaltbadfin>>
+                ->The king of notaplanet
+                    Officer: Never heard of you before but the name and number check out. I don't know what to really say. You had us fooled. Good luck!
+                    <<jump smugaltfin>>
+    ->parkenener
+        Officer: The legendary hero?
+        Luigi: Totally.
+        Officer: Free to go, sorry to inconvenience you.
+        <<jump smugaltfin>>
+->CATCH ME IF YOU CAN IN YOUR GIANT BATTLESHIPS.
+    Officer: Ok
+    <<addHull -25>>
+    <<addCredits -5>>
+    Luigi: Lost some hull and credits but at least I got away.
+    <<jump smugaltfin>>
+<<nextTrade>>
+===
+
+title: smugaltfin
+position: 143,128
+---
+Later after delivery
+Smith: Hey, its me again. I have your payment. Thanks for the help, no need to reply.
+<<addCredits 42>>
+<<addMorale 5>>
+<<nextTrade>>
+===
+
+title: smugaltbadfin
+position: -129,137
+---
+Officer: STOP RIGHT THERE AND PREPARE TO BE TAKEN INTO CUSTODY.
+Officer: WE HAVE YOUR ENGINES DISABLED.
+Officer: YOUR COMING WITH US.
+Luigi: At least Mario knows a good lawyer I'll be back at it in no time
+1 trial later
+Luigi: Just like I said back in no time. I'll have to pay Mario back for getting me that lawyer. 
+Luigi: Hopefully, he takes mercy on that poor Smith guy.
+<<nextTrade>>
+===

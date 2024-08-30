@@ -46,9 +46,9 @@ Mario: Luigi, I might've made a small mistake. I was talking to this alien I fou
 Mario: And well, he did make two of us, then four more, then sixteen, and now there's hundreds of us.
 ->(visible Confusion)
     Mario: Don't look at me like that, you know I wanted spend more time with Peach while running my lucrative trade business.
-    Mario: Right now though I need you to send me some credits so I can solve this but don't worry I'll send you this cute little alien I found in a forest somewhere.
-    ->Sure?
-        <<addCredits -10>>
+    Mario: Right now though I need you to send me some credits so I can solve this but don't worry I have something to repay you with.
+    ->Sure
+        <<addCredits -20>>
         <<generateItem lilAlien>>
         <<nextTrade>>
     ->No thanks, Mario.
